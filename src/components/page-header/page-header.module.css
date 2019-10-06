@@ -1,0 +1,10 @@
+.title {
+  box-shadow: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  font-family: sans-serif;
+  margin-top: 0;
+}
