@@ -1,5 +1,5 @@
 ---
-title: Javascript  Cheatsheet
+title: Javascript Cheatsheet
 date: "2019-12-11T22:12:03.284Z"
 description: "My Favorite Javascript Reads"
 tags: ["Cheatsheet"]

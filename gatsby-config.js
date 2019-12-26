@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Marcusmth`,
+    title: `Marcusmth Coding Toolkit`,
     author: `Marcus Smith`,
     description: `Marcus Smith's online presence.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://marcusmth.com/`,
     social: {
+      instagram: `marcusmth`,
       twitter: `marcusmth`,
     },
   },
@@ -50,7 +51,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-9911244-2`,
       },
     },
     `gatsby-plugin-feed`,
