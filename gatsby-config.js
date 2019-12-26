@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Marcusmth`,
+    title: `Marcusmth Coding Toolkit`,
     author: `Marcus Smith`,
     description: `Marcus Smith's online presence.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://marcusmth.com/`,
     social: {
+      instagram: `marcusmth`,
       twitter: `marcusmth`,
     },
   },
