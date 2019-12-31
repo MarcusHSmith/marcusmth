@@ -1,6 +1,7 @@
 ---
 title: Hey Siri, Send Nudes
 date: "2019-04-19T22:12:03.284Z"
+lastUpdated: "2019-04-19T22:12:03.284Z"
 description: "iOS Shortcuts to keep them on their toes"
 tags: ["Post"]
 ---
