@@ -1,6 +1,7 @@
 ---
 title: VSCode Cheatsheet
 date: "2019-12-10T22:12:03.285Z"
+lastUpdated: "2019-12-10T22:12:03.285Z"
 description: "My favorite VSCode Commands"
 tags: ["Cheatsheet"]
 ---

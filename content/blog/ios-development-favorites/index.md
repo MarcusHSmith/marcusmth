@@ -1,6 +1,7 @@
 ---
 title: iOS Development Cheatsheet
 date: "2019-12-10T22:12:03.284Z"
+lastUpdated: "2019-12-10T22:12:03.284Z"
 description: "My Favorite iOS Development Commands and Reads"
 tags: ["Cheatsheet"]
 ---

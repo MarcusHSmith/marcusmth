@@ -1,6 +1,7 @@
 ---
 title: Creating and retrieving using Typescript Partials
 date: "2019-12-28T22:13:05.284Z"
+lastUpdated: "2019-12-28T22:13:05.284Z"
 description: "How to ensure your nested interfaces are implemented"
 tags: ["Post"]
 ---
