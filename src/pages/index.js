@@ -56,7 +56,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___lastUpdated], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___lastUpdated], order: DESC }
+    ) {
       edges {
         node {
           excerpt

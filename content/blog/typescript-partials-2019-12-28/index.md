@@ -6,7 +6,7 @@ description: "How to ensure your nested interfaces are implemented"
 tags: ["Post"]
 ---
 
-Last week I had an interesting problem in typescript. A database column needed to store json blobs that fit multiple interfaces. These interfaces were often overlapping. 
+Last week I had an interesting problem in typescript. A database column needed to store json blobs that fit multiple interfaces. These interfaces were often overlapping.
 
 To simplify this discussion, the column was intended to store animals, let's call the column `Zoo`. Each species has its own set of required parameters.
 
@@ -20,7 +20,8 @@ interface Mammal {
 }
 ...
 ```
-However typescript doesn't allow OR checks on interfaces. The best solution ended up using `Partial` interface combinations to allow `Zoo` to accept all these animal types. 
+
+However typescript doesn't allow OR checks on interfaces. The best solution ended up using `Partial` interface combinations to allow `Zoo` to accept all these animal types.
 
 On the retrieval side, it needed to determine what interface to `Zoo` json conforms to. One solution was to check every field against what was provided but that would be expensive and not scalable. The solution was to have a key for each interface and check if is in the interface.
 
