@@ -16,7 +16,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All drone posts" />
         <Bio />
-        {posts.filter(({node}) =>  node.description.includes("Drone")).map(({ node }) => {
+        {posts.filter(({node}) =>  node.description.includes("Drone")).reverse().map(({ node }) => {
           console.log("VIDEO: ", node)
           //   
           const title = node.title
