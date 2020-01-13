@@ -1,3 +1,6 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 module.exports = {
   siteMetadata: {
     title: `Marcusmth Coding Toolkit`,
@@ -73,6 +76,16 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-source-youtube-v2`,
+      options: {
+        channelId: [
+          "UCzLPnJlM_5IEe2djVMB2jLA",
+        ],
+        apiKey: process.env.GATSBY_YOUTUBE_API_KEY,
+        maxVideos: 100,
       },
     },
     `gatsby-plugin-typescript`,
