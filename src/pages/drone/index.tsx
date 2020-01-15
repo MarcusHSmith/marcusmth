@@ -16,34 +16,36 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All drone posts" />
         <Bio />
-        {posts.filter(({node}) =>  node.description.includes("Drone")).reverse().map(({ node }) => {
-          console.log("VIDEO: ", node)
-          //   
-          const title = node.title
-          return (
-            <article key={node.id}>
-              <header>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >{title}
-                </h3>
-                <small>{node.publishedAt}</small>
-              </header>
-              <section>
-                <>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: node.description,
+        {posts
+          .filter(({ node }) => node.description.includes("Drone"))
+          .reverse()
+          .map(({ node }) => {
+            const title = node.title
+            return (
+              <article key={node.id}>
+                <header>
+                  <h3
+                    style={{
+                      marginBottom: rhythm(1 / 4),
                     }}
-                  />
-                  <YoutubePlayer videoId={node.videoId}/>
-                </>
-              </section>
-            </article>
-          )
-        })}
+                  >
+                    {title}
+                  </h3>
+                  <small>{node.publishedAt}</small>
+                </header>
+                <section>
+                  <>
+                    <p
+                      dangerouslySetInnerHTML={{
+                        __html: node.description,
+                      }}
+                    />
+                    <YoutubePlayer videoId={node.videoId}/>
+                  </>
+                </section>
+              </article>
+            )
+          })}
       </Layout>
     )
   }
