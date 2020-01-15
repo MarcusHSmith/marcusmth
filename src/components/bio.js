@@ -51,6 +51,10 @@ const Bio = () => {
         <strong>{author}</strong> lives and works in New York City. This is used
         as a repository for information learned and utilized.
         {` `}
+        <a href={`/`}>Posts</a>
+        {` `}
+        <a href={`/cheatsheet`}>Cheatsheets</a>
+        {` `}
         <a href={`/drone`}>Drone</a>
         {` `}
         <a href={`https://www.instagram.com/${social.instagram}`}>Instagram</a>
