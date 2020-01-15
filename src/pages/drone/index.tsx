@@ -18,7 +18,9 @@ class BlogIndex extends React.Component {
         <Bio />
         {posts
           .filter(({ node }) => node.description.includes("Drone"))
-          .reverse()
+          .sort((nodeA, nodeB) => new Date(nodeB.node.publishedAt).getTime() - 
+            new Date(nodeA.node.publishedAt).getTime()
+          )
           .map(({ node }) => {
             const title = node.title
             return (
@@ -31,17 +33,10 @@ class BlogIndex extends React.Component {
                   >
                     {title}
                   </h3>
-                  <small>{node.publishedAt}</small>
+                  <small>{new Date(node.publishedAt).toLocaleDateString()}</small>
                 </header>
                 <section>
-                  <>
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: node.description,
-                      }}
-                    />
                     <YoutubePlayer videoId={node.videoId}/>
-                  </>
                 </section>
               </article>
             )
@@ -67,7 +62,7 @@ export const pageQuery = graphql`
           }
           description
           videoId
-          publishedAt(formatString: "MMMM DD, YYYY")
+          publishedAt
           privacyStatus
           channelTitle
         }
