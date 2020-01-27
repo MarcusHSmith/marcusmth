@@ -16,6 +16,8 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 
 `CMD + SHIFT + J` Reveal file in Project Navigator
 
+`CMD + L` Goto line number
+
 If I found a read useful, I should maintain a link to it.
 
 [Swift: When to use guard vs if](https://www.natashatherobot.com/swift-when-to-use-guard-vs-if/) by Natasha The Robot
