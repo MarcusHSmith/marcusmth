@@ -8,11 +8,13 @@ tags: ["Cheatsheet"]
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
 
-`$ CMD + SHIFT + o` Open new file
+`CMD + SHIFT + O` Open new file
 
-`$ CTR + CMD + ARROW` Go back or forward to another file
+`CTR + CMD + ARROW` Go back or forward to another file
 
-`$ OPTION + CMD + o` Open git window
+`OPTION + CMD + O` Open git window
+
+`CMD + SHIFT + J` Reveal file in Project Navigator
 
 If I found a read useful, I should maintain a link to it.
 
