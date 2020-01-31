@@ -21,5 +21,3 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 If I found a read useful, I should maintain a link to it.
 
 [How to write a good commit message](https://juffalow.com/other/write-good-git-commit-message) by Matej Jellus
-
-[SKStoreReviewController](https://medium.com/@kavithakumarasamy89/skstorereviewcontroller-apple-way-to-request-review-and-rating-inside-ios-app-in-ios-10-3-453a6f897e9d) by Kavitha K
