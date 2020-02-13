@@ -1,7 +1,7 @@
 ---
 title: Git CLI Cheatsheet
 date: "2019-10-27T22:12:03.284Z"
-lastUpdated: "2020-01-12T19:43:03.284Z"
+lastUpdated: "2020-02-13T11:22:03.284Z"
 description: "My favorite Git Commands"
 tags: ["Cheatsheet"]
 ---
@@ -17,6 +17,8 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 `$ git branch -m new-name` renames the current branch
 
 `$ git commit --amend` renames the last commit
+
+`$ git for-each-ref --sort=-committerdate refs/heads/` sort branches by date
 
 If I found a read useful, I should maintain a link to it.
 
