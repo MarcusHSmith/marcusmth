@@ -1,7 +1,7 @@
 ---
 title: Reading List
 date: "2020-02-01T22:08:05.284Z"
-lastUpdated: "2020-02-01T22:08:05.284Z"
+lastUpdated: "2020-02-45T18:08:05.284Z"
 description: "My reading list"
 tags: ["Post"]
 ---
@@ -10,7 +10,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ Fight Club
+🏃Zero to One: Notes on Startups, or How to Build the Future
+
+Fight Club
 
 The Operator: David Geffen Builds, Buys, and Sells the New Hollywood
 
