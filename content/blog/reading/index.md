@@ -1,7 +1,7 @@
 ---
 title: Reading List
 date: "2020-02-01T22:08:05.284Z"
-lastUpdated: "2020-02-45T18:08:05.284Z"
+lastUpdated: "2020-02-26T10:08:05.284Z"
 description: "My reading list"
 tags: ["Post"]
 ---
@@ -10,7 +10,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃[Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2P0Bz5P) by [@peterthiel](https://twitter.com/peterthiel?s=20)
+🏃[The Path Between the Seas: The Creation of the Panama Canal, 1870-1914](https://amzn.to/37Y6S81) by David McCullough
+
+[Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2P0Bz5P) by [@peterthiel](https://twitter.com/peterthiel?s=20)
 
 [Fight Club](https://amzn.to/321VPtd) by [@chuckpalahniuk](https://twitter.com/chuckpalahniuk?s=20)
 
@@ -27,7 +29,6 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 [The Manual: A Philosopher's Guide to Life](https://amzn.to/37v9NET) by Epictetus
 
 [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/3bKtw76) by [@sleepdiplomat](https://twitter.com/sleepdiplomat?s=20)
-
 
 #2018
 
