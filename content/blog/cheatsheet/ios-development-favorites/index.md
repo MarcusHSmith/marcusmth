@@ -1,7 +1,7 @@
 ---
 title: iOS Development Cheatsheet
 date: "2019-12-10T22:12:03.284Z"
-lastUpdated: "2020-01-12T19:57:03.284Z"
+lastUpdated: "2020-02-26T14:57:03.284Z"
 description: "My Favorite iOS Development Commands and Reads"
 tags: ["Cheatsheet"]
 ---
@@ -29,6 +29,8 @@ If I found a read useful, I should maintain a link to it.
 [Swift: How To Be Lazy](https://www.natashatherobot.com/swift-lazy/) by Natasha The Robot
 
 [How To Add Resource Files Into Xcode Project And iOS App](https://www.dev2qa.com/how-to-add-resource-files-into-xcode-project-and-ios-app/) by Jerry Zhao
+
+[StackOverflow: Get safe area inset top and bottom heights](https://stackoverflow.com/a/46831519/2228688)
 
 If I found this resource collection useful or was recommended it, I should maintain a link to it.
 
