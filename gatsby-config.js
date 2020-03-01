@@ -78,14 +78,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    {
-      resolve: `gatsby-source-youtube-v2`,
-      options: {
-        channelId: ["UCzLPnJlM_5IEe2djVMB2jLA"],
-        apiKey: process.env.GATSBY_YOUTUBE_API_KEY,
-        maxVideos: 100,
-      },
-    },
     `gatsby-plugin-typescript`,
   ],
 }
