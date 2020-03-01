@@ -55,8 +55,6 @@ const Bio = () => {
         {` `}
         <a href={`/cheatsheet`}>Cheatsheets</a>
         {` `}
-        <a href={`/drone`}>Drone</a>
-        {` `}
         <a href={`https://www.instagram.com/${social.instagram}`}>Instagram</a>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
