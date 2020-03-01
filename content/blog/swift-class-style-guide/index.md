@@ -1,7 +1,7 @@
 ---
 title: Swift Class Style Guide
 date: "2020-02-26T11:20:05.284Z"
-lastUpdated: "2020-02-26T11:20:05.284Z"
+lastUpdated: "2020-02-28T13:43:05.284Z"
 description: "How to organize your class files in a predictable way"
 tags: ["Post"]
 ---
@@ -17,10 +17,10 @@ Class
   public static let
   private static let
 
-  override let/var
-
   public let/var
   private let/var
+
+  override let/var
 
   override func (init, deinit, viewDidLoad, etc.)
 
