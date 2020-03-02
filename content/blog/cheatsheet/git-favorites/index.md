@@ -20,6 +20,8 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 
 `$ git for-each-ref --sort=-committerdate refs/heads/` sort branches by date
 
+`$ git branch | grep -v "master" | xargs git branch -D` delete all local branches except master
+
 If I found a read useful, I should maintain a link to it.
 
 [How to write a good commit message](https://juffalow.com/other/write-good-git-commit-message) by Matej Jellus
