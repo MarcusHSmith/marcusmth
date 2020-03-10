@@ -1,8 +1,8 @@
 ---
-title: iOS Development Cheatsheet
+title: iOS Development and XCode Cheatsheet
 date: "2019-12-10T22:12:03.284Z"
-lastUpdated: "2020-03-04T12:57:03.284Z"
-description: "My Favorite iOS Development Commands and Reads"
+lastUpdated: "2020-03-09T10:57:03.284Z"
+description: "My Favorite iOS Development and XCode Commands and Reads"
 tags: ["Cheatsheet"]
 ---
 
@@ -17,6 +17,8 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 `CMD + SHIFT + J` Reveal file in Project Navigator
 
 `CMD + L` Goto line number
+
+`Editor > Authors` Git blame within XCode
 
 If I found a read useful, I should maintain a link to it.
 
