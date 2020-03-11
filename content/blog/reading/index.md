@@ -1,7 +1,7 @@
 ---
 title: Reading List
 date: "2020-02-01T22:08:05.284Z"
-lastUpdated: "2020-02-26T10:08:05.284Z"
+lastUpdated: "2020-03-11T10:08:05.284Z"
 description: "My reading list"
 tags: ["Post"]
 ---
@@ -45,3 +45,6 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 [Mate: Become the Man Women Want](https://amzn.to/39Ed7z6) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
 [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://amzn.to/3bDp89M) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
+
+#2017
+[Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)

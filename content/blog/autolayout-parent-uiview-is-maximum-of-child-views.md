@@ -9,6 +9,7 @@ description: >-
 tags:
   - Post
 ---
+
 I've hit this challenge way too many times and now that I know the solution I don't ever want to be stumped by it again.
 
 A parent UIView() has multiple subviews. We'll call the parent `p` and the children `a` and `b`. The example uses [Stevia](https://github.com/freshOS/Stevia).
