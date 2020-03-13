@@ -1,24 +1,26 @@
 ---
 title: iOS Development and XCode Cheatsheet
 date: "2019-12-10T22:12:03.284Z"
-lastUpdated: "2020-03-09T10:57:03.284Z"
+lastUpdated: "2020-03-13T11:57:03.284Z"
 description: "My Favorite iOS Development and XCode Commands and Reads"
 tags: ["Cheatsheet"]
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
 
-`CMD + SHIFT + O` Open new file
+`⌘ + ⇧ + O` Open new file
 
-`CTR + CMD + ARROW` Go back or forward to another file
+`CTR + ⌘ + ARROW` Go back or forward to another file
 
-`OPTION + CMD + O` Open git window
+`⌥ + ⌘ + O` Open git window
 
-`CMD + SHIFT + J` Reveal file in Project Navigator
+`⌘ + ⇧ + J` Reveal file in Project Navigator
 
-`CMD + L` Goto line number
+`⌘ + L` Goto line number
 
 `Editor > Authors` Git blame within XCode
+
+`⌥ + ⌘ + ⇧ + F` Find and Replace entire workspace
 
 If I found a read useful, I should maintain a link to it.
 
