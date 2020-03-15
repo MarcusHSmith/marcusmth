@@ -14,6 +14,8 @@ const MailChimpForm = () => {
       .then(data => {
         if (data.result === "error") {
             alert("error: likely a duplicate email");
+        } else {
+          alert("Subscribed")
         }
       })
     },
