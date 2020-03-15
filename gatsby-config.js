@@ -80,5 +80,11 @@ module.exports = {
     },
     `gatsby-plugin-typescript`,
     `gatsby-plugin-netlify-cms`,
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint: "https://marcusmth.us19.list-manage.com/subscribe/post?u=ad029d5ad74ac2e045f7d5d6b&amp;id=603f11dd41"
+        },
+    },
   ],
 }
