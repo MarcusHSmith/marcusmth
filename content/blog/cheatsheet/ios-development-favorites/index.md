@@ -1,7 +1,7 @@
 ---
 title: iOS Development and XCode Cheatsheet
 date: "2019-12-10T22:12:03.284Z"
-lastUpdated: "2020-03-19T17:57:03.284Z"
+lastUpdated: "2020-03-25T10:01:03.284Z"
 description: "My Favorite iOS Development and XCode Commands and Reads"
 tags: ["Cheatsheet"]
 ---
@@ -40,7 +40,9 @@ If I found a read useful, I should maintain a link to it.
 
 [Using The Responder Chain](https://useyourloaf.com/blog/using-the-responder-chain/) by Keith Harrison
 
-[How to Add Pull-to-Refresh to a Table View or Collection View](https://cocoacasts.com/how-to-add-pull-to-refresh-to-a-table-view-or-collection-view) by Bart Jacobs 
+[How to Add Pull-to-Refresh to a Table View or Collection View](https://cocoacasts.com/how-to-add-pull-to-refresh-to-a-table-view-or-collection-view) by Bart Jacobs
+
+[Swift Sleep without stopping main thread](https://stackoverflow.com/a/38031138/2228688) by [owlswipe](https://stackoverflow.com/users/5700898/owlswipe)
 
 If I found this resource collection useful or was recommended it, I should maintain a link to it.
 
