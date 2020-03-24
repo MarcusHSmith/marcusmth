@@ -1,7 +1,7 @@
 ---
 title: Git CLI Cheatsheet
 date: "2019-10-27T22:12:03.284Z"
-lastUpdated: "2020-02-13T11:22:03.284Z"
+lastUpdated: "2020-03-24T15:22:03.284Z"
 description: "My favorite Git Commands"
 tags: ["Cheatsheet"]
 ---
@@ -21,6 +21,8 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 `$ git for-each-ref --sort=-committerdate refs/heads/` sort branches by date
 
 `$ git branch | grep -v "master" | xargs git branch -D` delete all local branches except master
+
+`$ git branch -D [branchName]` delete branch
 
 If I found a read useful, I should maintain a link to it.
 
