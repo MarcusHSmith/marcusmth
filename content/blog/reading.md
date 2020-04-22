@@ -1,16 +1,22 @@
 ---
+path: content/blog
+date: '2020-02-01T22:08:05.284Z'
+lastUpdated: 2020-04-22T21:08:00.000Z
 title: Reading List
-date: "2020-02-01T22:08:05.284Z"
-lastUpdated: "2020-03-11T10:08:05.284Z"
-description: "My reading list"
-tags: ["Post"]
+description: My reading list
+tags:
+  - Post
 ---
 
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
 
-🏃[The Path Between the Seas: The Creation of the Panama Canal, 1870-1914](https://amzn.to/37Y6S81) by David McCullough
+🏃[City of Thieves: A Novel](https://amzn.to/34XxgyV) by David Benioff
+
+Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
+
+[The Path Between the Seas: The Creation of the Panama Canal, 1870-1914](https://amzn.to/37Y6S81) by David McCullough
 
 [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2P0Bz5P) by [@peterthiel](https://twitter.com/peterthiel?s=20)
 
