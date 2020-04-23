@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: iOS Development and XCode Cheatsheet
 date: "2019-12-10T22:12:03.284Z"
 lastUpdated: "2020-03-30T11:01:03.284Z"

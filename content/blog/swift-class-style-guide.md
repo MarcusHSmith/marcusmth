@@ -1,4 +1,5 @@
 ---
+path: blog
 title: Swift Class Style Guide
 date: "2020-02-26T11:20:05.284Z"
 lastUpdated: "2020-02-28T13:43:05.284Z"

@@ -1,5 +1,5 @@
 ---
-path: content/blog
+path: blog
 date: 2020-04-06T15:27:58.418Z
 lastUpdated: 2020-04-06T15:27:58.444Z
 title: Is UITableView at the top?

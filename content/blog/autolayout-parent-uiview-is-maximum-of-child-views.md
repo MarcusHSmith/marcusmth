@@ -1,5 +1,5 @@
 ---
-path: content/blog
+path: blog
 date: 2020-03-04T17:47:45.334Z
 lastUpdated: 2020-03-04T17:47:45.372Z
 title: Autolayout Parent UIView is Maximum of Child Views

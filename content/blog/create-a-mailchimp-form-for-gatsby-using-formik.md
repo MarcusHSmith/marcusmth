@@ -1,5 +1,5 @@
 ---
-path: mailchimp_gatsby_using_formik
+path: blog
 date: 2020-03-15T20:01:27.109Z
 lastUpdated: 2020-03-15T20:01:27.136Z
 title: Create a MailChimp form for Gatsby using Formik

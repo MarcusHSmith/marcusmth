@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: Emacs Cheatsheet
 date: "2020-01-07T19:23:03.285Z"
 lastUpdated: "2020-01-16T15:38:03.285Z"

@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: Javascript Cheatsheet
 date: "2019-12-11T22:12:03.284Z"
 lastUpdated: "2019-12-11T22:12:03.284Z"

@@ -60,6 +60,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___lastUpdated], order: DESC }
+      filter: { frontmatter: { path: { eq: "blog"}}}
     ) {
       edges {
         node {
@@ -72,6 +73,7 @@ export const pageQuery = graphql`
             title
             description
             tags
+            path
           }
         }
       }

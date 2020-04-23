@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: Typescript Cheatsheet
 date: "2019-12-26T16:49:03.284Z"
 lastUpdated: "2019-12-31T01:49:03.284Z"

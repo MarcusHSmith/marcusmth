@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: VSCode Cheatsheet
 date: "2019-12-10T22:12:03.285Z"
 lastUpdated: "2020-01-07T19:25:03.285Z"

@@ -6,7 +6,7 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import { rhythm } from "../../utils/typography"
 
-class BlogIndex extends React.Component {
+class CheatsheetIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = "Marcusmth"
@@ -47,7 +47,7 @@ class BlogIndex extends React.Component {
   }
 }
 
-export default BlogIndex
+export default CheatsheetIndex
 
 export const pageQuery = graphql`
   query {
@@ -58,6 +58,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___lastUpdated], order: DESC }
+      filter: { frontmatter: { path: { eq: "cheatsheet"}}}
     ) {
       edges {
         node {
@@ -70,6 +71,7 @@ export const pageQuery = graphql`
             title
             description
             tags
+            path
           }
         }
       }

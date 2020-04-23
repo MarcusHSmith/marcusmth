@@ -1,4 +1,5 @@
 ---
+path: blog
 title: Creating and retrieving using Typescript Partials
 date: "2019-12-28T22:13:05.284Z"
 lastUpdated: "2019-12-28T22:13:05.284Z"

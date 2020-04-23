@@ -1,5 +1,5 @@
 ---
-path: content/blog
+path: blog
 date: 2020-04-09T16:41:20.278Z
 lastUpdated: 2020-04-09T16:41:20.305Z
 title: How to subview a ViewController with a ViewController

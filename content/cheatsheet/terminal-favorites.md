@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: Terminal Cheatsheet
 date: "2019-12-10T22:12:03.286Z"
 lastUpdated: "2019-12-10T22:12:03.286Z"

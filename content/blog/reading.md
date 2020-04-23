@@ -1,5 +1,5 @@
 ---
-path: content/blog
+path: blog
 date: '2020-02-01T22:08:05.284Z'
 lastUpdated: 2020-04-22T21:08:00.000Z
 title: Reading List

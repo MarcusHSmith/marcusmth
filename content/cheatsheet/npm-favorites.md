@@ -1,4 +1,5 @@
 ---
+path: cheatsheet
 title: NPM CLI Cheatsheet
 date: "2019-11-10T22:12:03.284Z"
 lastUpdated: "2019-11-10T22:12:03.284Z"
