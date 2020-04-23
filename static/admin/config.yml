@@ -11,9 +11,9 @@ collections:
     folder: content/blog
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: datetime }
-      - { name: lastUpdated, label: Date, widget: datetime }
+      - { name: path, label: Path, default: "blog", widget: "hidden" }
+      - { name: date, label: Original Date, widget: datetime }
+      - { name: lastUpdated, label: Last Updated, widget: datetime }
       - { name: title, label: Title }
       - { name: description, label: Description}
       - { name: tags, label: Tags, widget: list}
@@ -23,9 +23,9 @@ collections:
     folder: content/cheatsheet
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: datetime }
-      - { name: lastUpdated, label: Date, widget: datetime }
+      - { name: path, label: Path, default: "cheatsheet", widget: "hidden" }
+      - { name: date, label: Original Date, widget: datetime }
+      - { name: lastUpdated, label: Last Updated, widget: datetime }
       - { name: title, label: Title }
       - { name: description, label: Description}
       - { name: tags, label: Tags, widget: list}

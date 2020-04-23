@@ -17,7 +17,6 @@ class BlogIndex extends React.Component {
         <SEO title="All posts" />
         <Bio />
         {posts
-          .filter(({ node }) => node.frontmatter.tags.includes("Post"))
           .map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
@@ -72,7 +71,6 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
-            tags
             path
           }
         }

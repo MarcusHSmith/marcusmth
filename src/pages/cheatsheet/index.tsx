@@ -16,7 +16,7 @@ class CheatsheetIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
-        {posts.filter(({node}) => node.frontmatter.tags.includes("Cheatsheet")).map(({ node }) => {
+        {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <article key={node.fields.slug}>
@@ -70,7 +70,6 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
-            tags
             path
           }
         }

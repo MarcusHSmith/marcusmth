@@ -4,7 +4,7 @@ title: NPM CLI Cheatsheet
 date: "2019-11-10T22:12:03.284Z"
 lastUpdated: "2019-11-10T22:12:03.284Z"
 description: "My favorite NPM Commands"
-tags: ["Cheatsheet"]
+tags: []
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
