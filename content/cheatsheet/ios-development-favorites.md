@@ -1,10 +1,11 @@
 ---
 path: cheatsheet
+date: '2019-12-10T22:12:03.284Z'
+lastUpdated: 2020-04-27T17:01:00.000Z
 title: iOS Development and XCode Cheatsheet
-date: "2019-12-10T22:12:03.284Z"
-lastUpdated: "2020-03-30T11:01:03.284Z"
-description: "My Favorite iOS Development and XCode Commands and Reads"
-tags: []
+description: My Favorite iOS Development and XCode Commands and Reads
+tags:
+  - swift
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
@@ -22,6 +23,8 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 `Editor > Authors` Git blame within XCode
 
 `⌥ + ⌘ + ⇧ + F` Find and Replace entire workspace
+
+To iterate over an enum type ensure it is `CaseIterable`
 
 If I found a read useful, I should maintain a link to it.
 
