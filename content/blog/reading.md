@@ -11,7 +11,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 \#2020
 
-🏃‍♂️\[Talking to Strangers](https://amzn.to/2KNSV3m) by \[@Gladwell](https://twitter.com/Gladwell?s=20)
+🏃‍♂️[Talking to Strangers](https://amzn.to/2KNSV3m) by [@Gladwell](https://twitter.com/Gladwell?s=20)
 
 [City of Thieves: A Novel](https://amzn.to/34XxgyV) by David Benioff
 
