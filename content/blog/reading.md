@@ -53,6 +53,10 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://amzn.to/3bDp89M) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
-#2017 [Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
+#2017 
 
-#1999 Learned to read
+[Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
+
+#1999 
+
+Learned to read
