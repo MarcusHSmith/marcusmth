@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-05-06T21:08:00.000Z
+lastUpdated: 2020-05-07T14:08:00.000Z
 title: Reading List
 description: My reading list
 tags:
@@ -11,6 +11,8 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
+🏃‍♂️ [The Dichotomy of Leadership](https://amzn.to/3fsY67a) by [@JockoWillink](https://twitter.com/jockowillink?s=20)
+
 [Talking to Strangers](https://amzn.to/2KNSV3m) by [@Gladwell](https://twitter.com/Gladwell?s=20)
 
 [City of Thieves: A Novel](https://amzn.to/34XxgyV) by David Benioff
@@ -19,15 +21,15 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Path Between the Seas: The Creation of the Panama Canal, 1870-1914](https://amzn.to/37Y6S81) by David McCullough
 
-[Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2P0Bz5P) by [@peterthiel](https://twitter.com/peterthiel?s=20)
+[Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2P0Bz5P) by [@PeterThiel](https://twitter.com/peterthiel?s=20)
 
-[Fight Club](https://amzn.to/321VPtd) by [@chuckpalahniuk](https://twitter.com/chuckpalahniuk?s=20)
+[Fight Club](https://amzn.to/321VPtd) by [@ChuckPalahniuk](https://twitter.com/chuckpalahniuk?s=20)
 
 [The Operator: David Geffen Builds, Buys, and Sells the New Hollywood](https://amzn.to/39QoynF) by Thomas R. King
 
 #2019
 
-[It Doesn't Have to Be Crazy at Work](https://amzn.to/2uH90ni) by [@jasonfried](https://twitter.com/jasonfried?s=20)
+[It Doesn't Have to Be Crazy at Work](https://amzn.to/2uH90ni) by [@JasonFried](https://twitter.com/jasonfried?s=20)
 
 [Total Recall: My Unbelievably True Life Story](https://amzn.to/2wnCp6m) by [@Schwarzenegger](https://twitter.com/Schwarzenegger?s=20)
 
@@ -35,11 +37,11 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Manual: A Philosopher's Guide to Life](https://amzn.to/37v9NET) by Epictetus
 
-[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/3bKtw76) by [@sleepdiplomat](https://twitter.com/sleepdiplomat?s=20)
+[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/3bKtw76) by [@SleepDiplomat](https://twitter.com/sleepdiplomat?s=20)
 
 #2018
 
-[Hooked: How to Build Habit-Forming Products](https://amzn.to/2SO3ZkB) by [@nireyal](https://twitter.com/nireyal?s=20)
+[Hooked: How to Build Habit-Forming Products](https://amzn.to/2SO3ZkB) by [@Nireyal](https://twitter.com/nireyal?s=20)
 
 [Algorithms to Live By](https://amzn.to/2OYZ7bm) by Brian Christian
 
