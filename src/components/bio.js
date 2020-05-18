@@ -58,6 +58,8 @@ const Bio = () => {
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
         {` `}
+        <a href={`https://www.strava.com/athletes/9512`}>Strava</a>
+        {` `}
         <a href={`https://goo.gl/maps/QSQCaP3AMVgakqHo7`}>Local Guide</a>
       </p>
     </div>
