@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-05-14T14:08:00.000Z
+lastUpdated: 2020-05-18T14:08:00.000Z
 title: Reading List
 description: My reading list
 tags:
@@ -9,7 +9,9 @@ tags:
 ---
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
-\#2020
+#2020
+
+🏃‍♂️ [Shoe Dog](https://amzn.to/3cUfq2U) by Phil Knight
 
 [The Dichotomy of Leadership](https://amzn.to/3fsY67a) by [@JockoWillink](https://twitter.com/jockowillink?s=20)
 
@@ -27,7 +29,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Operator: David Geffen Builds, Buys, and Sells the New Hollywood](https://amzn.to/39QoynF) by Thomas R. King
 
-\#2019
+#2019
 
 [It Doesn't Have to Be Crazy at Work](https://amzn.to/2uH90ni) by [@JasonFried](https://twitter.com/jasonfried?s=20)
 
@@ -39,7 +41,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/3bKtw76) by [@SleepDiplomat](https://twitter.com/sleepdiplomat?s=20)
 
-\#2018
+#2018
 
 [Hooked: How to Build Habit-Forming Products](https://amzn.to/2SO3ZkB) by [@Nireyal](https://twitter.com/nireyal?s=20)
 
@@ -55,10 +57,10 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://amzn.to/3bDp89M) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
-\#2017 
+#2017 
 
 [Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
-\#1999 
+#1999 
 
 Learned to read
