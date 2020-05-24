@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-05-18T14:08:00.000Z
+lastUpdated: 2020-05-24T14:08:00.000Z
 title: Reading List
 description: My reading list
 tags:
@@ -11,7 +11,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [Shoe Dog](https://amzn.to/3cUfq2U) by Phil Knight
+🏃‍♂️ [Remote](https://amzn.to/3ee1QI3) by [@JasonFried](https://twitter.com/jasonfried?s=20)
+
+[Shoe Dog](https://amzn.to/3cUfq2U) by Phil Knight
 
 [The Dichotomy of Leadership](https://amzn.to/3fsY67a) by [@JockoWillink](https://twitter.com/jockowillink?s=20)
 
