@@ -11,6 +11,7 @@ collections:
     folder: content/blog
     create: true
     fields:
+      - { name: path, label: Path, default: "blog", widget: string }
       - { name: date, label: Original Date, widget: datetime }
       - { name: lastUpdated, label: Last Updated, widget: datetime }
       - { name: title, label: Title }
@@ -22,6 +23,7 @@ collections:
     folder: content/cheatsheet
     create: true
     fields:
+      - { name: path, label: Path, default: "cheatsheet", widget: string }
       - { name: date, label: Original Date, widget: datetime }
       - { name: lastUpdated, label: Last Updated, widget: datetime }
       - { name: title, label: Title }
