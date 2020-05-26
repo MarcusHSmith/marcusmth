@@ -1,6 +1,6 @@
 ---
-date: 2020-04-23T01:02:32.782Z
-lastUpdated: 2020-04-23T01:02:32.806Z
+date: 2020-05-27T01:02:32.782Z
+lastUpdated: 2020-05-27T01:02:32.806Z
 title: Delete breakpoints in XCode 5
 description: How to delete all or some breakpoints in XCode 5
 tags:
