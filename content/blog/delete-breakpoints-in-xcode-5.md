@@ -1,4 +1,5 @@
 ---
+path: blog
 date: 2020-05-27T01:02:32.782Z
 lastUpdated: 2020-05-27T01:02:32.806Z
 title: Delete breakpoints in XCode 5
