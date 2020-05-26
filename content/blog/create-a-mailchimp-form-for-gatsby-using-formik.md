@@ -4,7 +4,7 @@ date: 2020-03-15T20:01:27.109Z
 lastUpdated: 2020-03-15T20:01:27.136Z
 title: Create a MailChimp form for Gatsby using Formik
 description: How to build a MailChimp submission form for a Gatsby site using Formik
-tags: []
+tags:
 ---
 This site needed an email submission form to maintain viewers' email for future newsletters. [Formik](https://jaredpalmer.com/formik) is my standard for creating react forms. This quick tutorial will show you how to set up a Formik form on a [Gatsby](https://www.gatsbyjs.org/) site.
 

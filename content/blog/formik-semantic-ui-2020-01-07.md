@@ -4,7 +4,7 @@ title: Formik with Semantic-UI Components
 date: "2020-01-07T22:28:05.284Z"
 lastUpdated: "2020-01-07T22:28:05.284Z"
 description: "How to use Formik with Semantic-UI-React components"
-tags: []
+tags:
 ---
 
 How to use [Formik](https://jaredpalmer.com/formik/docs/overview) with [Semantic-UI-React](https://react.semantic-ui.com/) components

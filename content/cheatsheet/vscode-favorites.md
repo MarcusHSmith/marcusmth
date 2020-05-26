@@ -4,7 +4,7 @@ title: VSCode Cheatsheet
 date: "2019-12-10T22:12:03.285Z"
 lastUpdated: "2020-01-07T19:25:03.285Z"
 description: "My favorite VSCode Commands"
-tags: []
+tags:
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
