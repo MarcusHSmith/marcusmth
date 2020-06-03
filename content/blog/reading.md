@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-05-30T14:08:00.000Z
+lastUpdated: 2020-06-03T14:08:00.000Z
 title: Reading List
 description: My reading list
 tags:
@@ -10,6 +10,8 @@ tags:
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
+
+🏃‍♂️ [The Goldfinch](https://amzn.to/36XvAGI) by Donna Tartt
 
 [Remote](https://amzn.to/3ee1QI3) by [@JasonFried](https://twitter.com/jasonfried?s=20)
 
