@@ -59,15 +59,55 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Mate: Become the Man Women Want](https://amzn.to/39Ed7z6) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
-[The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://amzn.to/3bDp89M) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
+[Letters from a Self-Made Merchant to his Son]() by []()
+
+[Ishmael](https://amzn.to/3eQqcIo) by Daniel Quinn
 
 #2017 
 
 [Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
+[Thinking, Fast and Slow](https://amzn.to/3gV3h03) by Daniel Kahneman
+
+#2016
+
+[The Power Of Habit](https://amzn.to/3cwHKrn) by [@cduhigg](https://twitter.com/cduhigg?s=20)
+
+#2015
+
+[Paper Towns](https://amzn.to/3eOyYX7) by [@JohnGreen](https://twitter.com/johngreen?s=20)
+
+[The Zen of Steve Jobs](https://amzn.to/2MvhH9u) by Caleb Melby
+
+[Vagabonding](https://amzn.to/3eQ2PhX) by [@RolfPotts](https://twitter.com/rolfpotts?s=20)
+
 #2014
 
+[Life of Pi](https://amzn.to/309oZro) by Yann Martel
+
+[The Kite Runner](https://amzn.to/3dBsFGq) by [@KhaledHosseini](https://twitter.com/khaledhosseini?s=20)
+
+[As A Man Thinketh](https://amzn.to/2BsrpqF) by James Allen
+
+[The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://amzn.to/3bDp89M) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
+
 [Angels & Demons](https://amzn.to/3d4ajxt) by Dan Brown
+
+[Meditations](https://amzn.to/2zZ3Aq4) by Marcus Aurelius
+
+[Lone Survivor](https://amzn.to/36YVKsN) by [@MarcusLuttrell](https://twitter.com/MarcusLuttrell?s=20)
+
+[A Dog in a Hat](https://amzn.to/2XXpMJe) by Joe Parkin
+
+[Losing My Virginity](https://amzn.to/36Xty9J) by [@RichardBranson](https://twitter.com/richardbranson?s=20)
+
+#2013
+
+[The 4-Hour Chef](https://amzn.to/3748Xka) by [@tferriss](https://twitter.com/tferriss?s=20)
+
+[The 4-Hour Workweek](https://amzn.to/2By2KkI) by [@tferriss](https://twitter.com/tferriss?s=20)
+
+[Ender's Game](https://amzn.to/2BsssXD) by [@OrsonScottCard](https://twitter.com/orsonscottcard?s=20)
 
 #1999 
 
