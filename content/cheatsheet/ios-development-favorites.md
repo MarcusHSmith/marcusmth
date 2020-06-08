@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: '2019-12-10T22:12:03.284Z'
-lastUpdated: 2020-05-26T14:31:00.000Z
+lastUpdated: 2020-06-08T14:31:00.000Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -53,6 +53,8 @@ If I found a read useful, I should maintain a link to it.
 [StackOverflow: Time Swift method](https://stackoverflow.com/a/2129884/2228688) by [Matthew McGoogan](https://stackoverflow.com/users/257639/matthew-mcgoogan)
 
 [Delete breakpoints in XCode 5](https://marcusmth.com/delete-breakpoints-in-xcode-5/) by **MYSELF**
+
+[App Store Connect Build Versions](https://marcusmth.com/app-store-connect-build-versions/) by **MYSELF**
 
 If I found this resource collection useful or was recommended it, I should maintain a link to it.
 
