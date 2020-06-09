@@ -23,7 +23,9 @@ There are two layers to code review. First syntax, is the code using the right n
 
 `LGTM` - Looks Good to Meet - what the reviewer says when it’s ready to merge
 
-`NIT` - This is like a nice to have or a small thing that is a minor moment. “You could name this x instead of y”
+`nit` - This is like a nice to have or a small thing that is a minor moment. “You could name this x instead of y”
+
+`WOMM` - Works on My Machine - test the feature locally on client to ensure it works as expected
 
 **How to Review:**
 
