@@ -3,7 +3,7 @@ require("dotenv").config({
 })
 module.exports = {
   siteMetadata: {
-    title: `Marcusmth Coding Toolkit`,
+    title: `Marcusmth`,
     author: `Marcus Smith`,
     description: `Marcus Smith's online presence.`,
     siteUrl: `https://marcusmth.com/`,
