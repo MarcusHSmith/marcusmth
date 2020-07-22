@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: '2019-12-10T22:12:03.284Z'
-lastUpdated: 2020-06-23T14:31:00.000Z
+lastUpdated: 2020-07-22T14:31:00.000Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -27,6 +27,8 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 To iterate over an enum type ensure it is `CaseIterable`
 
 `⌘ + ⇧ + {` OR `⌘ + ⇧ + }` Switch tabs
+
+`⌘ + + OR ⌘ + -` Zoom in or out of window. Specifically useful for the console
 
 If I found a read useful, I should maintain a link to it.
 
