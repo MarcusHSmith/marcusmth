@@ -31,7 +31,7 @@ class BlogIndex extends React.Component {
                       {title}
                     </Link>
                   </h3>
-                  <small>{node.frontmatter.date}</small>
+                  <small>{node.frontmatter.lastUpdated}</small>
                 </header>
                 <section>
                   <p
@@ -68,7 +68,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            lastUpdated(formatString: "MMMM DD, YYYY")
             title
             description
             path
