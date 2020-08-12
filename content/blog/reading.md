@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-08-04T14:08:00.000Z
+lastUpdated: 2020-08-11T14:08:00.000Z
 title: Reading List
 description: My reading list
 tags:
@@ -11,7 +11,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [The Wedge](https://amzn.to/39WoX9d) by [@SGCarney](https://twitter.com/sgcarney?s=20)
+[The Wedge](https://amzn.to/39WoX9d) by [@SGCarney](https://twitter.com/sgcarney?s=20)
 
 [Purple Cow](https://amzn.to/2CKOwOa) by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog?s=20)
 
