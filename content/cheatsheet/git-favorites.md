@@ -1,10 +1,11 @@
 ---
 path: cheatsheet
-title: Git CLI Cheatsheet
-date: "2019-10-27T22:12:03.284Z"
-lastUpdated: "2020-03-24T15:22:03.284Z"
-description: "My favorite Git Commands"
+date: '2019-10-27T22:12:03.284Z'
+lastUpdated: '2020-03-24T15:22:03.284Z'
+title: Git Cheatsheet
+description: My favorite Git Commands
 tags:
+  - github
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
