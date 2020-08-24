@@ -28,7 +28,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 
 **Web Development Concepts**
 - [ ] Use a QueryBuilder when possible when updating the database
-- [ ] Scripts will large datasets should have safegaurds like sleeps to ensure the database/server don't get whacked
+- [ ] Scripts with large datasets should have safegaurds like sleeps to ensure the database/server don't get whacked
 - [ ] All async functions are called with `await`
 - [ ] Use `const` variables whenever possible
 
