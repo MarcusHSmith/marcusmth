@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2020-08-22T22:43:45.119Z
+lastUpdated: 2020-08-26T22:43:45.119Z
 title: How to Code Review
 description: 'The guide to review any code, but most importantly my own'
 tags:
@@ -32,6 +32,6 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] All async functions are called with `await`
 - [ ] Use `const` variables whenever possible
 - [ ] `let` is code smell, there is enough functional constructs to avoid `let`
-
+- [ ] Use absolute path for imports
 
 
