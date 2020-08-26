@@ -25,6 +25,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] TableView datasources should only be set after init() and after registering cells to avoid crashes
 - [ ] Autolayout constraints can often be simplified 
 - [ ] The name for Views or ViewControllers file and class should end with `View` or `ViewController`
+- [ ] Delegate functions are written in the format of `viewControllerDidRequestCreate`
 
 **Web Development Concepts**
 - [ ] Use a QueryBuilder when possible when updating the database
@@ -33,6 +34,3 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Use `const` variables whenever possible
 - [ ] `let` is code smell, there is enough functional constructs to avoid `let`
 - [ ] Use absolute path for imports
-- [ ] Delegate functions are written in the format of `viewControllerDidRequestCreate`
-
-
