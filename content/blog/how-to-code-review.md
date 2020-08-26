@@ -33,5 +33,6 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Use `const` variables whenever possible
 - [ ] `let` is code smell, there is enough functional constructs to avoid `let`
 - [ ] Use absolute path for imports
+- [ ] Delegate functions are written in the format of `viewControllerDidRequestCreate`
 
 
