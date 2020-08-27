@@ -26,6 +26,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Autolayout constraints can often be simplified 
 - [ ] The name for Views or ViewControllers file and class should end with `View` or `ViewController`
 - [ ] Delegate functions are written in the format of `viewControllerDidRequestCreate`
+- [ ] For constant values in a list, use private enum
 
 **Web Development Concepts**
 - [ ] Use a QueryBuilder when possible when updating the database
