@@ -1,10 +1,11 @@
 ---
 path: blog
+date: '2019-12-28T22:13:05.284Z'
+lastUpdated: '2019-12-28T22:13:05.284Z'
 title: Creating and retrieving using Typescript Partials
-date: "2019-12-28T22:13:05.284Z"
-lastUpdated: "2019-12-28T22:13:05.284Z"
-description: "How to ensure your nested interfaces are implemented"
+description: How to use Tyescript Partials which is useful in React projects
 tags:
+  - react
 ---
 
 Last week I had an interesting problem in typescript. A database column needed to store json blobs that fit multiple interfaces. These interfaces were often overlapping.
