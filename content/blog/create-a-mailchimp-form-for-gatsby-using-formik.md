@@ -9,20 +9,21 @@ description: >-
 tags:
   - react
 ---
+
 This site needed an email submission form to maintain viewers' email for future newsletters. [Formik](https://jaredpalmer.com/formik) is my standard for creating react forms. This quick tutorial will show you how to set up a Formik form on a [Gatsby](https://www.gatsbyjs.org/) site.
 
-Gatsby has outdated [instructions](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/) on how to add MailChimp to a website. These are still helpful. The [MailChimp Endpoint](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/#mailchimp-endpoint) is now found at `Create > Signup Form` then `Embedded form > Begin`. In the `Copy/paste onto your site` section (which isn't easily copy and paste-able, the list url is included. For me this is: [https://marcusmth.us19.list-manage.com/subscribe/post?u=ad029d5ad74ac2e045f7d5d6b&amp;id=603f11dd41](https://marcusmth.us19.list-manage.com/subscribe/post?u=ad029d5ad74ac2e045f7d5d6b&amp;id=603f11dd41).
+Gatsby has outdated [instructions](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/) on how to add MailChimp to a website. These are still helpful. The [MailChimp Endpoint](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/#mailchimp-endpoint) is now found at `Create > Signup Form` then `Embedded form > Begin`. In the `Copy/paste onto your site` section (which isn't easily copy and paste-able, the list url is included. For me this is: [https://marcusmth.us19.list-manage.com/subscribe/post?u=ad029d5ad74ac2e045f7d5d6b&amp;id=603f11dd41](https://marcusmth.us19.list-manage.com/subscribe/post?u=ad029d5ad74ac2e045f7d5d6b&id=603f11dd41).
 
 This tutorial varies at [Gatsby Import Plugin Instructions](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/#gatsby-import-plugin-instructions). Hopefully you already have Formik included in your project (`$ yarn add Formik`).
 
 MailChimp requires specific names for fields, so `firstName` must be renamed to `FNAME`.
 
-* `FNAME` - firstName
-* `LNAME` - lastName
-* `EMAIL` - email
-* `ADDRESS` - address
-* `PHONE` - phone
-* `BIRTHDAY` - birthday
+- `FNAME` - firstName
+- `LNAME` - lastName
+- `EMAIL` - email
+- `ADDRESS` - address
+- `PHONE` - phone
+- `BIRTHDAY` - birthday
 
 ```
 import React from "react"

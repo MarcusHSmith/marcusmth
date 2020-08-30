@@ -1,10 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
+import ListOfPosts from "../components/listOfPosts"
 
 class BlogIndex extends React.Component {
   render() {
+    const { data } = this.props
     return (
-      <ListOfProps 
+      <ListOfPosts 
         data={this.props}
         posts={data.allMarkdownRemark.edges}
       />

@@ -11,10 +11,13 @@ import Bio from "./bio";
 import { rhythm } from "../utils/typography";
 import { Link } from "gatsby";
 
-
-
-const ListOfPosts = (props: { data: any, posts: any }) => {
-    <Layout location={this.props.location} title={props.data.site.siteMetadata.title}>
+const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
+    return (
+    <>
+    <Layout 
+        location={props.location} 
+        title={"Marcusmth"}
+    >
         <SEO title="All posts" />
         <Bio />
         {props.posts
@@ -47,6 +50,8 @@ const ListOfPosts = (props: { data: any, posts: any }) => {
             )
           })}
       </Layout>
+      </>
+    )
 }
 
 export default ListOfPosts

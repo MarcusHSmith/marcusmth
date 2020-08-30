@@ -48,15 +48,19 @@ const Bio = () => {
       />
       <p>
         <strong>{author}</strong> lives and works in New York City. This is used
-        as a repository for information learned and utilized.<br />
+        as a repository for information learned and utilized.
+        <br />
         <a href={`/`}>Posts</a>
         {` `}
-        <a href={`/cheatsheet`}>Cheatsheets</a><br />
+        <a href={`/cheatsheet`}>Cheatsheets</a>
+        <br />
         <a href={`https://www.instagram.com/${social.instagram}`}>Instagram</a>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
         {` `}
-        <a href={`https://stackoverflow.com/users/2228688/marcus`}>Stack Overflow</a>
+        <a href={`https://stackoverflow.com/users/2228688/marcus`}>
+          Stack Overflow
+        </a>
         {` `}
         <a href={`https://www.strava.com/athletes/9512`}>Strava</a>
         {` `}
