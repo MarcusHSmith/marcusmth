@@ -93,5 +93,6 @@ module.exports = {
         endpoint: "https://marcusmth.us19.list-manage.com/subscribe/post?u=ad029d5ad74ac2e045f7d5d6b&amp;id=603f11dd41"
         },
     },
+    `gatsby-plugin-sitemap`
   ],
 }
