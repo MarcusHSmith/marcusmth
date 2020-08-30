@@ -3,7 +3,9 @@ path: blog
 date: 2020-06-09T15:19:31.314Z
 lastUpdated: 2020-06-09T15:19:31.341Z
 title: How to Ace your Code Review Interview
-description: Advice and talking points to pass your code review interview
+description: >-
+  Code review job interviews can present a challenge, this will help you pass
+  their questions
 tags:
   - software engineer
 ---
