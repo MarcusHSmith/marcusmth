@@ -4,7 +4,8 @@ title: Hey Siri, Send Nudes
 date: "2019-04-19T22:12:03.284Z"
 lastUpdated: "2019-04-19T22:12:03.284Z"
 description: "iOS Shortcuts to keep them on their toes"
-tags:
+tags: 
+  - shortcuts
 ---
 
 Sending nudes has never been easier. With the help of iOS [ShortCuts](https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8) you can send them using Siri voice commands.
