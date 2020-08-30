@@ -9,6 +9,7 @@ description: >-
 tags:
   - software engineer
 ---
+
 Last week a friend asked for advice on an upcoming Code Review interview. I wrote up this document for him and thought it could be valuable to other engineers who are new to the process. Here are my thoughts now and this will continue to update as my perspective changes. I'm happy to hear your feedback.
 
 <br />
@@ -34,6 +35,7 @@ There are two layers to code review. First syntax, is the code using the right n
 When reviewing code you look over it in Github and comment on lines. If you’re not familiar with that I can show you before your interview.
 
 Talk through your process of code reviewing.
+
 1. Understand the task assigned to the engineer. What is trying to be accomplished
 2. At a high level should the code accomplish this
 3. Is the pattern and architecture correct to solve this problem
@@ -44,5 +46,3 @@ Talk through your process of code reviewing.
 “I used to do syntax reviews first and then when the larger design needed to change I had to do syntax again. Now I start with high level and only at the end worry about syntax”
 
 “My goal is no avoid writing the same comment multiple times with an engineer, so when there’s room for improvement I comment on the issue, the solution, and why so they learn for the next time around”
-
-

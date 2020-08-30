@@ -1,20 +1,20 @@
 import React from "react"
 import { graphql } from "gatsby"
-import ListOfPosts from "../../components/listOfPosts"
+import ListOfPosts from "../components/listOfPosts"
 
-class CheatsheetIndex extends React.Component {
+class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
-      return (
-        <ListOfPosts 
-          data={this.props}
-          posts={data.allMarkdownRemark.edges}
-        />
-      )
+    return (
+      <ListOfPosts 
+        data={this.props}
+        posts={data.allMarkdownRemark.edges}
+      />
+    )
   }
 }
 
-export default CheatsheetIndex
+export default BlogIndex
 
 export const pageQuery = graphql`
   query {
@@ -25,7 +25,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___lastUpdated], order: DESC }
-      filter: { frontmatter: { path: { eq: "cheatsheet"}}}
+      filter: { frontmatter: { path: { eq: "blog"}}}
     ) {
       edges {
         node {

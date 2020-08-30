@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import * as styles from "./page-header.module.css"
+import { Header } from "semantic-ui-react"
 
 export interface IProps {
   title: string
@@ -12,11 +13,11 @@ export class PageHeader extends React.Component<IProps> {
     const { title } = this.props
     return (
       <div>
-        <h3 className={styles.header}>
+        <Header className={styles.header}>
           <Link className={styles.title} to={`/`}>
             {title}
           </Link>
-        </h3>
+        </Header>
       </div>
     )
   }

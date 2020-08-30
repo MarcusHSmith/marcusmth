@@ -1,6 +1,6 @@
 ---
 path: cheatsheet
-date: '2019-12-10T22:12:03.285Z'
+date: "2019-12-10T22:12:03.285Z"
 lastUpdated: 2020-07-27T18:25:03.285Z
 title: VSCode Cheatsheet
 description: My favorite VSCode Commands

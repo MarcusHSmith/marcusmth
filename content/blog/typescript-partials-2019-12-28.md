@@ -1,7 +1,7 @@
 ---
 path: blog
-date: '2019-12-28T22:13:05.284Z'
-lastUpdated: '2019-12-28T22:13:05.284Z'
+date: "2019-12-28T22:13:05.284Z"
+lastUpdated: "2019-12-28T22:13:05.284Z"
 title: Creating and retrieving using Typescript Partials
 description: How to use Tyescript Partials which is useful in React projects
 tags:

@@ -2,6 +2,10 @@ import React from "react"
 
 import addToMailchimp from "gatsby-plugin-mailchimp"
 import { useFormik } from "formik"
+import { Form, Header, Input, Button } from 'semantic-ui-react';
+
+import 'semantic-ui-css/semantic.min.css'
+
 
 const MailChimpForm = () => {
   const formik = useFormik({
@@ -22,25 +26,20 @@ const MailChimpForm = () => {
   })
   return (
     <>
-      <form onSubmit={formik.handleSubmit}>
-        <input
-          id="email"
-          name="email"
-          type="email"
-          placeholder="email"
-          onChange={formik.handleChange}
-          value={formik.values.email}
+      <Form>
+        <Form.Field>
+          <Header content="Name" />
+          <Input type="text" name="Name" onChange={formik.handleChange}  value={formik.values.firstName} />
+        </Form.Field>
+        <Form.Field>
+          <Header content="Email" />
+          <Input type="email" name="Email" onChange={formik.handleChange}  value={formik.values.email} />
+        </Form.Field>
+        <Button
+          type="submit"
+          content="Submit"
         />
-        <input
-          id="firstName"
-          name="firstName"
-          type="text"
-          placeholder="name"
-          onChange={formik.handleChange}
-          value={formik.values.firstName}
-        />
-        <button type="submit">Submit</button>
-      </form>
+      </Form>
     </>
   )
 }

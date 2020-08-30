@@ -7,6 +7,7 @@ description: When does Swift call `didSet()` on variables
 tags:
   - swift
 ---
+
 There are a few gotchas in Swift's variable didSet logic. At a high level the `didSet()` function is called whenever a variable value is set.
 
 ```
@@ -19,7 +20,7 @@ private var colorPreference: UIColor = UIColor.red {
 
 The main catch is that this does not apply to initializing values. The first case is when the variable is initialized with a value.
 
-`private var colorPreference: UIColor = UIColor.red`  
+`private var colorPreference: UIColor = UIColor.red`
 
 The second is when the variable is set in the initialized func.
 

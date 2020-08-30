@@ -1,6 +1,6 @@
 ---
 path: cheatsheet
-date: '2019-12-10T22:12:03.284Z'
+date: "2019-12-10T22:12:03.284Z"
 lastUpdated: 2020-07-29T14:31:00.000Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads

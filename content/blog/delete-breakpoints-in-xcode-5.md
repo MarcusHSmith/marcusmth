@@ -6,6 +6,7 @@ title: Delete breakpoints in XCode 5
 description: How to delete all or some breakpoints in XCode 5
 tags:
 ---
+
 Every XCode version changes how to view all breakpoints. XCode 3 `⌘ + ALT + B`. XCode 4 `⌘ + 7`.
 
 **In XCode 5:**
@@ -14,4 +15,4 @@ Every XCode version changes how to view all breakpoints. XCode 3 `⌘ + ALT + B`
 
 `⌘ + A` to select all breakpoints
 
-`DELETE` to remove them *this can take a few seconds*
+`DELETE` to remove them _this can take a few seconds_

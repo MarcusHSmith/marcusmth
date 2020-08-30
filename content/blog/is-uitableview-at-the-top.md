@@ -6,6 +6,7 @@ title: Is UITableView at the top?
 description: How to determine if a UITableView is at the top of its datasource
 tags:
 ---
+
 This week I needed to determine if a `UITableView` was at the top. There are ways of checking if it has scrolled to the top using `UIScrollViewDelegate` described [here](https://stackoverflow.com/a/15772943/2228688), but I needed to determine it from `viewDidAppear`.
 
 The solution was to check the first visible row's `IndexPath`
@@ -18,5 +19,5 @@ if (row.section == 0 && row.row == 0) {
     // Top of the UITableView
 }
 ```
-*swift*
 
+_swift_

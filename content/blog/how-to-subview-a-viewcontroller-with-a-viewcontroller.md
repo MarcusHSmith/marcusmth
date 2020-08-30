@@ -6,6 +6,7 @@ title: How to subview a ViewController with a ViewController
 description: Adding a ViewController to another ViewController shouldn't be difficult
 tags:
 ---
+
 To add a ViewController
 
 ```
@@ -15,6 +16,7 @@ childVC.didMove(toParent: self)
 ```
 
 To remove a ViewController
+
 ```
 childVC.willMove(toParent: nil)
 childVC.view.removeFromSuperview()
