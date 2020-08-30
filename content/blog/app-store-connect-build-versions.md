@@ -3,7 +3,7 @@ path: blog
 date: 2020-06-08T21:28:19.632Z
 lastUpdated: 2020-06-08T21:28:19.679Z
 title: App Store Connect build versions
-description: When do create a new app version
+description: 'iOS Testflight version difference between major, minor, patch, and build'
 tags:
   - ios
   - appStore
