@@ -3,7 +3,9 @@ path: blog
 date: 2020-08-22T22:43:45.078Z
 lastUpdated: 2020-08-28T22:43:45.119Z
 title: How to Code Review
-description: 'The guide to review any code, but most importantly my own'
+description: >-
+  Code reviews present a challenge for Software Engineers this is how to do it
+  in production companies like Snapchat and Goldman Sachs
 tags:
   - swe
 ---
