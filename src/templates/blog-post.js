@@ -46,10 +46,9 @@ class BlogPostTemplate extends React.Component {
               marginBottom: rhythm(1),
             }}
           />
-          <Divider />
           <footer>
-            <Bio />
             <Divider />
+            <Bio />
             <MailChimpForm />
           </footer>
         </article>

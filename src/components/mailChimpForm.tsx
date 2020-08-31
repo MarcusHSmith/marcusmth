@@ -2,7 +2,7 @@ import React from "react"
 
 import addToMailchimp from "gatsby-plugin-mailchimp"
 import { useFormik } from "formik"
-import { Form, Header, Input, Button } from 'semantic-ui-react';
+import { Form, Header, Input, Button, Segment } from 'semantic-ui-react';
 
 import 'semantic-ui-css/semantic.min.css'
 
@@ -25,7 +25,7 @@ const MailChimpForm = () => {
     },
   })
   return (
-    <>
+    <Segment>
       <Form>
         <Form.Field>
           <Header content="Name" />
@@ -40,7 +40,7 @@ const MailChimpForm = () => {
           content="Submit"
         />
       </Form>
-    </>
+      </Segment>
   )
 }
 
