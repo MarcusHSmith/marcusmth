@@ -21,3 +21,5 @@ Allows you to see what would be changed with `ROLLBACK` or make the change and k
 `!` is written as `NOT`
 
 `coalesce(variable, false)` checks if the variable is null or false
+
+All variables with capital letters need quotes around them
