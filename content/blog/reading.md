@@ -1,9 +1,9 @@
 ---
 path: blog
-date: "2020-02-01T22:08:05.284Z"
-lastUpdated: 2020-08-16T14:08:00.000Z
+date: '2020-02-01T22:08:05.284Z'
+lastUpdated: 2020-08-31T14:08:00.000Z
 title: Marcus's Reading List
-description: "Book recommendations for computer science, product, and creatives"
+description: 'Book recommendations for computer science, product, and creatives'
 tags:
   - Amazon
 ---
@@ -12,7 +12,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [The Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795/ref=sr_1_1?crid=34RLHC1JYSBO2&dchild=1&keywords=the+machine+that+changed+the+world&qid=1597618945&sprefix=the+machine%2Caps%2C161&sr=8-1) by James P. Womack
+[The Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795/ref=sr_1_1?crid=34RLHC1JYSBO2&dchild=1&keywords=the+machine+that+changed+the+world&qid=1597618945&sprefix=the+machine%2Caps%2C161&sr=8-1) by James P. Womack
 
 [The Wedge](https://amzn.to/39WoX9d) by [@SGCarney](https://twitter.com/sgcarney?s=20)
 
