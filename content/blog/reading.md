@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-08-31T14:08:00.000Z
+lastUpdated: 2020-09-02T14:08:00.000Z
 title: Marcus's Reading List
 description: 'Book recommendations for computer science, product, and creatives'
 tags:
@@ -11,6 +11,8 @@ tags:
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
+
+🏃‍♂️ [The Future We Choose](https://www.amazon.com/gp/product/0525658351/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by [@CFigueres](https://twitter.com/CFigueres?s=20) & [@TomCarnac](https://twitter.com/tomcarnac?s=20)
 
 [The Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795/ref=sr_1_1?crid=34RLHC1JYSBO2&dchild=1&keywords=the+machine+that+changed+the+world&qid=1597618945&sprefix=the+machine%2Caps%2C161&sr=8-1) by James P. Womack
 
