@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2020-08-28T22:43:45.119Z
+lastUpdated: 2020-09-02T22:43:45.119Z
 title: How to Code Review
 description: >-
   Code reviews present a challenge for Software Engineers this is how to do it
@@ -18,7 +18,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 
 - [ ] Earlier fails and assertions should be logged
 - [ ] Public variables that are only used in sets should be set to private and the client should call a public configuration function (aka setter)
-- [ ] Empty functions or functions that only call their super
+- [ ] Remove empty functions or functions that only call their super
 - [ ] Variable names should reflect their value as simply as possible
 - [ ] Only change files that are intended to be changed
 - [ ] Constant variables should be capitalized
@@ -33,11 +33,12 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Delegate functions are written in the format of `viewControllerDidRequestCreate`
 - [ ] For constant values in a list, use private enum
 - [ ] Use `weak` references to avoid retention cycles
+- [ ] Underlying asset names should reflex the public asset name
 
 **Web Development Concepts**
 
 - [ ] Use a QueryBuilder when possible when updating the database
-- [ ] Scripts with large datasets should have safegaurds like sleeps to ensure the database/server don't get whacked
+- [ ] Scripts with large datasets should have safeguards like sleeps to ensure the database/server don't get whacked
 - [ ] All async functions are called with `await`
 - [ ] Use `const` variables whenever possible
 - [ ] `let` is code smell, there is enough functional constructs to avoid `let`
