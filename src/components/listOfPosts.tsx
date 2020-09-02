@@ -18,7 +18,7 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
         location={props.location} 
         title={"Marcusmth"}
     >
-        <SEO title="All posts" />
+        <SEO title="Marcus Smith Software Engineering iOS Blog" />
         <Bio />
         {props.posts
           .map(({ node }) => {
