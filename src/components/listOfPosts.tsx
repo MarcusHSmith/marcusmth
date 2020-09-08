@@ -1,8 +1,6 @@
 import React from "react"
 
-import addToMailchimp from "gatsby-plugin-mailchimp"
-import { useFormik } from "formik"
-import { Form, Header, Input, Button, Segment } from 'semantic-ui-react';
+import { Segment } from 'semantic-ui-react';
 
 import 'semantic-ui-css/semantic.min.css'
 import Layout from "./layout";
@@ -10,6 +8,7 @@ import SEO from "./seo";
 import Bio from "./bio";
 import { rhythm } from "../utils/typography";
 import { Link } from "gatsby";
+import MailChimpForm from "./mailChimpForm";
 
 const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
     return (
@@ -49,6 +48,7 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
               </Segment>
             )
           })}
+        <MailChimpForm />
       </Layout>
       </>
     )

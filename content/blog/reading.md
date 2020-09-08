@@ -1,9 +1,9 @@
 ---
 path: blog
-date: '2020-02-01T22:08:05.284Z'
+date: "2020-02-01T22:08:05.284Z"
 lastUpdated: 2020-09-02T14:08:00.000Z
 title: Marcus's Reading List
-description: 'Book recommendations for computer science, product, and creatives'
+description: "Book recommendations for computer science, product, and creatives"
 tags:
   - Amazon
 ---

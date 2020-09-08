@@ -26,21 +26,23 @@ const MailChimpForm = () => {
   })
   return (
     <Segment>
+      <header>To receive updates from Marcus consider joining the mailing list</header>
       <Form>
         <Form.Field>
-          <Header content="Name" />
+          <small>Name</small>
           <Input type="text" name="Name" onChange={formik.handleChange}  value={formik.values.firstName} />
         </Form.Field>
         <Form.Field>
-          <Header content="Email" />
+          <small>Email</small>
           <Input type="email" name="Email" onChange={formik.handleChange}  value={formik.values.email} />
         </Form.Field>
         <Button
           type="submit"
           content="Submit"
+          color="blue"
         />
-      </Form>
-      </Segment>
+    </Form>
+  </Segment>
   )
 }
 

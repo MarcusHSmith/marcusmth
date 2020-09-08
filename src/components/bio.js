@@ -38,7 +38,7 @@ const Bio = () => {
         alt={author}
         style={{
           marginRight: rhythm(1 / 2),
-          marginBottom: 0,
+          marginTop: 10,
           minWidth: 50,
           borderRadius: `100%`,
         }}
@@ -47,8 +47,9 @@ const Bio = () => {
         }}
       />
       <p>
-        <strong>{author}</strong> lives and works in New York City. This is used
-        as a repository for information learned and utilized.
+        <strong>{author}</strong> lives and works in New York City. He is a
+        software engineer focused on iOS and React development. This is used as
+        a repository for information learned and utilized.
         <br />
         <a href={`/`}>Posts</a>
         {` `}

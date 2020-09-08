@@ -15,8 +15,8 @@ BEGIN TRANSACTION
 sql-request
 ROLLBACK TRANSACTION OR COMMIT TRANSACTION
 ```
-Allows you to see what would be changed with `ROLLBACK` or make the change and know what was changed with `COMMIT`
 
+Allows you to see what would be changed with `ROLLBACK` or make the change and know what was changed with `COMMIT`
 
 `!` is written as `NOT`
 

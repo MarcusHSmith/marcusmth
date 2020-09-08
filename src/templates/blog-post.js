@@ -24,7 +24,6 @@ class BlogPostTemplate extends React.Component {
           <header>
             <h1
               style={{
-                marginTop: rhythm(1),
                 marginBottom: 0,
               }}
             >
