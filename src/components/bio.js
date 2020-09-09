@@ -63,6 +63,8 @@ const Bio = () => {
           Stack Overflow
         </a>
         {` `}
+        <a href={`https://www.linkedin.com/in/marcushsmith/`}>LinkedIn</a>
+        {` `}
         <a href={`https://www.strava.com/athletes/9512`}>Strava</a>
         {` `}
         <a href={`https://goo.gl/maps/QSQCaP3AMVgakqHo7`}>Local Guide</a>
