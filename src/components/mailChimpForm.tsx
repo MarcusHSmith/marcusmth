@@ -1,29 +1,13 @@
 import React from "react"
 
 import addToMailchimp from "gatsby-plugin-mailchimp"
-import { useFormik, Formik } from "formik"
-import { Form, Header, Input, Button, Segment } from 'semantic-ui-react';
+import { Formik } from "formik"
+import { Form, Input, Button, Segment } from 'semantic-ui-react';
 
 import 'semantic-ui-css/semantic.min.css'
 
 
 const MailChimpForm = () => {
-  const formik = useFormik({
-    initialValues: {
-      email: "",
-      firstName: "",
-    },
-    onSubmit: values => {
-      addToMailchimp(values.email, {FNAME: values.firstName})
-      .then(data => {
-        if (data.result === "error") {
-            alert("error: likely a duplicate email");
-        } else {
-          alert("Subscribed")
-        }
-      })
-    },
-  })
   return (
     <Segment>
       <header>To receive updates from Marcus consider joining the mailing list</header>
@@ -33,7 +17,7 @@ const MailChimpForm = () => {
         firstName: "",
       }}
       onSubmit={async (values) => {
-        addToMailchimp(values.email, {FNAME: values.firstName})
+        addToMailchimp(values.email, {NAME: values.firstName})
       .then(data => {
         if (data.result === "error") {
             alert("error: likely a duplicate email");
