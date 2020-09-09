@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2020-09-02T22:43:45.119Z
+lastUpdated: 2020-09-09T22:43:45.119Z
 title: How to Code Review
 description: >-
   Code reviews present a challenge for Software Engineers this is how to do it
@@ -34,6 +34,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] For constant values in a list, use private enum
 - [ ] Use `weak` references to avoid retention cycles
 - [ ] Underlying asset names should reflex the public asset name
+- [ ] Files shouldn't receive an argument only to be used in a delegate call
 
 **Web Development Concepts**
 
