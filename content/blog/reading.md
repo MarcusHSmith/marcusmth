@@ -1,9 +1,9 @@
 ---
 path: blog
-date: "2020-02-01T22:08:05.284Z"
-lastUpdated: 2020-09-02T14:08:00.000Z
+date: '2020-02-01T22:08:05.284Z'
+lastUpdated: 2020-09-09T14:08:00.000Z
 title: Marcus's Reading List
-description: "Book recommendations for computer science, product, and creatives"
+description: 'Book recommendations for computer science, product, and creatives'
 tags:
   - Amazon
 ---
@@ -12,7 +12,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [The Future We Choose](https://www.amazon.com/gp/product/0525658351/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by [@CFigueres](https://twitter.com/CFigueres?s=20) & [@TomCarnac](https://twitter.com/tomcarnac?s=20)
+🏃‍♂️ [American Kingpin](https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind/dp/1591848148) by [@NickBilton](https://twitter.com/nickbilton?s=20)
+
+[The Future We Choose](https://www.amazon.com/gp/product/0525658351/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by [@CFigueres](https://twitter.com/CFigueres?s=20) & [@TomCarnac](https://twitter.com/tomcarnac?s=20)
 
 [The Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795/ref=sr_1_1?crid=34RLHC1JYSBO2&dchild=1&keywords=the+machine+that+changed+the+world&qid=1597618945&sprefix=the+machine%2Caps%2C161&sr=8-1) by James P. Womack
 
