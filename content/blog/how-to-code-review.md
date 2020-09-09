@@ -35,6 +35,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Use `weak` references to avoid retention cycles
 - [ ] Underlying asset names should reflex the public asset name
 - [ ] Files shouldn't receive an argument only to be used in a delegate call
+- [ ] Ensure optional casting (`coordinatorDidComplete`) cast to expected class
 
 **Web Development Concepts**
 
