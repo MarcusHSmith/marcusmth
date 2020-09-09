@@ -23,7 +23,7 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
           .map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
-              <Segment>
+              <Segment key={title}>
               <article key={node.fields.slug}>
                 <header>
                   <h3

@@ -44,7 +44,7 @@ const MailChimpForm = () => {
     }}
       
     >
-      {({ values, handleChange}) => (
+      {({ values, handleChange, handleSubmit}) => (
         <Form>
           <Form.Field>
             <small>Name</small>
@@ -54,11 +54,14 @@ const MailChimpForm = () => {
             <small>Email</small>
             <Input type="email" name="email" onChange={handleChange} value={values.email} />
           </Form.Field>
-          <Button
-          type="submit"
-          content="Submit"
-          color="blue"
-        />
+                  <Button
+            type="submit"
+            content="Submit"
+            color="blue"
+            onClick={() => {
+                handleSubmit();
+            }}
+          />
         </Form>
       )}
     </Formik>
