@@ -33,7 +33,7 @@ Swift compiles files to `.o` files which the Linker then assembles into binary. 
 
 ### Legacy Build System
 
-At some point iOS switched to a new build system but it's unclear if it is truly faster. For quicker incremental builds use the Legacy Build System. Be sure to clear Derived Date `~/Library/Developer/XCode/DerivedDate` then `$ pod install`.
+At some point iOS switched to a new build system but it's unclear if it is truly faster. For quicker incremental builds use the Legacy Build System. Be sure to clear Derived Date `~/Library/Developer/Xcode/DerivedDate` then `$ pod install`.
 
 ## Results
 
