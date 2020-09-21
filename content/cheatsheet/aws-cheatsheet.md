@@ -1,0 +1,14 @@
+---
+path: cheatsheet
+date: 2020-08-31T18:15:24.673Z
+lastUpdated: 2020-08-31T18:15:24.704Z
+title: AWS Cheatsheet
+description: Amazon Web Service Guide
+tags:
+  - aws
+---
+## Vocabulary
+RDS - Relational Database Manager
+
+### Tasks
+In `AWS Batch` find Jobs
