@@ -29,3 +29,9 @@ Migrations are sorted by timestamp. New migrations should have the largest times
 `LIKE` is equivalent to `=` unless wildcards are used `WHERE column_name LIKE '%input%'`
 
 `EXPLAIN` lists who what processes were run and costs
+
+Count the number of rows in a table
+```
+SELECT COUNT(*)
+FROM my_table
+```
