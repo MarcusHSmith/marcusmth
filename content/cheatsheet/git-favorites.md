@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
-date: "2019-10-27T22:12:03.284Z"
-lastUpdated: "2020-03-24T15:22:03.284Z"
+date: '2019-10-27T22:12:03.284Z'
+lastUpdated: '2020-03-24T15:22:03.284Z'
 title: Git Cheatsheet
 description: My favorite Git Commands
 tags:
@@ -10,7 +10,7 @@ tags:
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
 
-`$ git commit --amend` incldues current staged commit with last commit
+`$ git commit --amend` includes current staged commit with last commit
 
 `$ git clean -f` removes untracked files
 
