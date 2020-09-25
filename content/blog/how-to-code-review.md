@@ -14,7 +14,7 @@ Reviewing code is the last line of defense before it enters production. I've had
 
 I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-ace-your-code-review-interview/) which details the terminology and steps of a code review. This document provides the concepts to review on.
 
-**General Concepts**
+## General Concepts
 
 - [ ] Earlier fails and assertions should be logged
 - [ ] Public variables that are only used in sets should be set to private and the client should call a public configuration function (aka setter)
@@ -25,7 +25,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Ensure new code is called
 - [ ] String manipulation is brittle, regex simplifies it
 
-**iOS Specific Concepts**
+## iOS Specific Concepts
 
 - [ ] TableView datasources should only be set after init() and after registering cells to avoid crashes
 - [ ] Autolayout constraints can often be simplified
@@ -37,7 +37,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Files shouldn't receive an argument only to be used in a delegate call
 - [ ] Ensure optional casting (`coordinatorDidComplete`) cast to expected class
 
-**Web Development Concepts**
+## Web Development Concepts
 
 - [ ] Use a QueryBuilder when possible when updating the database
 - [ ] Scripts with large datasets should have safeguards like sleeps to ensure the database/server don't get whacked
@@ -45,3 +45,6 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Use `const` variables whenever possible
 - [ ] `let` is code smell, there is enough functional constructs to avoid `let`
 - [ ] Use absolute path for imports
+
+### GraphQl
+- [ ] Schema fields need to be resolved
