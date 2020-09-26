@@ -6,6 +6,7 @@ title: Create a MailChimp form for Gatsby using Formik
 description: >-
   How to build a MailChimp submission form for a Gatsby site using Formik in
   React
+isPublished: true
 tags:
   - react
 ---

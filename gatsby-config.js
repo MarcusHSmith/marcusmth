@@ -96,12 +96,10 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: "gatsby-transformer-remark",
       options: {
-        plugins: [
-          'gatsby-remark-mermaid'
-        ]
-      }
+        plugins: ["gatsby-remark-mermaid"],
+      },
     },
   ],
 }

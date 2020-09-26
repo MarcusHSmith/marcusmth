@@ -38,6 +38,7 @@ export const pageQuery = graphql`
             title
             description
             path
+            isPublished
           }
         }
       }

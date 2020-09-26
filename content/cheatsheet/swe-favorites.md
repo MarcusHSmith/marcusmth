@@ -4,6 +4,7 @@ date: "2019-12-16T22:12:03.284Z"
 lastUpdated: 2020-08-19T16:12:00.000Z
 title: SWE Cheatsheet
 description: My Favorite Software Engineering Tricks
+isPublished: true
 tags:
   - software engineer
 ---

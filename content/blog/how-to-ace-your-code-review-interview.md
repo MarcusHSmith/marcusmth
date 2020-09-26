@@ -6,6 +6,7 @@ title: How to Ace your Code Review Interview
 description: >-
   Code review job interviews can present a challenge, this will help you pass
   their questions
+isPublished: true
 tags:
   - software engineer
 ---

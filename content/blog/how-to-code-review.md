@@ -6,6 +6,7 @@ title: How to Code Review
 description: >-
   Code reviews present a challenge for Software Engineers this is how to do it
   in production companies like Snapchat and Goldman Sachs
+isPublished: true
 tags:
   - swe
 ---
@@ -47,4 +48,5 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Use absolute path for imports
 
 ### GraphQl
+
 - [ ] Schema fields need to be resolved

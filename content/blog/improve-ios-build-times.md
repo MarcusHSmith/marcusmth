@@ -4,6 +4,7 @@ date: 2020-09-07T21:28:19.632Z
 lastUpdated: 2020-09-09T21:28:19.632Z
 title: Improve iOS Build Times
 description: How our iOS incremental build times were decreased
+isPublished: true
 tags:
   - ios
   - appStore

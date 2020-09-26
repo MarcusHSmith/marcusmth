@@ -4,6 +4,7 @@ date: 2020-07-27T17:22:47.299Z
 lastUpdated: 2020-07-29T17:22:47.341Z
 title: iOS Provisioning Profile Guide
 description: Everything I know about setting up Certificates for XCode and iOS devices
+isPublished: true
 tags:
   - ios
 ---

@@ -15,8 +15,9 @@ collections:
       - { name: date, label: Original Date, widget: datetime }
       - { name: lastUpdated, label: Last Updated, widget: datetime }
       - { name: title, label: Title }
-      - { name: description, label: Description}
-      - { name: tags, label: Tags, widget: list}
+      - { name: description, label: Description }
+      - { name: tags, label: Tags, widget: list }
+      - { name: isPublished, label: Is Published, widget: boolean }
       - { name: body, label: Body, widget: markdown }
   - name: cheatsheet
     label: Cheatsheet
@@ -27,6 +28,7 @@ collections:
       - { name: date, label: Original Date, widget: datetime }
       - { name: lastUpdated, label: Last Updated, widget: datetime }
       - { name: title, label: Title }
-      - { name: description, label: Description}
-      - { name: tags, label: Tags, widget: list}
+      - { name: description, label: Description }
+      - { name: tags, label: Tags, widget: list }
+      - { name: isPublished, label: Is Published, widget: boolean }
       - { name: body, label: Body, widget: markdown }

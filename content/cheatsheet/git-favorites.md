@@ -1,9 +1,10 @@
 ---
 path: cheatsheet
-date: '2019-10-27T22:12:03.284Z'
-lastUpdated: '2020-03-24T15:22:03.284Z'
+date: "2019-10-27T22:12:03.284Z"
+lastUpdated: "2020-03-24T15:22:03.284Z"
 title: Git Cheatsheet
 description: My favorite Git Commands
+isPublished: true
 tags:
   - github
 ---

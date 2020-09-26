@@ -2,11 +2,13 @@
 path: blog
 date: 2020-08-22T22:43:45.078Z
 lastUpdated: 2020-08-27T22:43:45.119Z
-title: 'GraphQL Dependencies '
+title: "GraphQL Dependencies "
 description: GraphQL dependency tree for Entity Resolver Service Mutator Finder
+isPublished: true
 tags:
   - graphql
 ---
+
 GraphQL can be confusing. This dependency graph helped me visualize the architecture.
 
 ```mermaid

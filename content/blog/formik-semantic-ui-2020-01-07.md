@@ -4,6 +4,7 @@ date: "2020-01-07T22:28:05.284Z"
 lastUpdated: "2020-01-07T22:28:05.284Z"
 title: Formik with Semantic-UI Components
 description: How to use Formik with Semantic-UI-React components
+isPublished: true
 tags:
   - formik
   - semantic

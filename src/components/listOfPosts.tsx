@@ -20,6 +20,7 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
         <SEO title="Marcus Smith Software Engineering iOS Blog" />
         <Bio />
         {props.posts
+          .filter(({ node }) => node.frontmatter.isPublished)
           .map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (

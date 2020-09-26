@@ -4,6 +4,7 @@ date: 2020-07-27T17:22:47.299Z
 lastUpdated: 2020-07-27T17:22:47.341Z
 title: Swift Variable DidSet Logic
 description: When does Swift call `didSet()` on variables
+isPublished: true
 tags:
   - swift
 ---

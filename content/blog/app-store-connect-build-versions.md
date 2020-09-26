@@ -4,6 +4,7 @@ date: 2020-06-08T21:28:19.632Z
 lastUpdated: 2020-06-08T21:28:19.679Z
 title: App Store Connect build versions
 description: "iOS Testflight version difference between major, minor, patch, and build"
+isPublished: true
 tags:
   - ios
   - appStore

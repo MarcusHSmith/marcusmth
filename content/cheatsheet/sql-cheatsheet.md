@@ -4,6 +4,7 @@ date: 2020-08-06T17:58:56.230Z
 lastUpdated: 2020-09-23T17:58:56.259Z
 title: SQL Cheatsheet
 description: My favorite SQL Commands
+isPublished: true
 tags:
   - sql
 ---
@@ -31,6 +32,7 @@ Migrations are sorted by timestamp. New migrations should have the largest times
 `EXPLAIN` lists who what processes were run and costs
 
 Count the number of rows in a table
+
 ```
 SELECT COUNT(*)
 FROM my_table
