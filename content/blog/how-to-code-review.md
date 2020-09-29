@@ -1,14 +1,14 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2020-09-09T22:43:45.119Z
+lastUpdated: 2020-09-29T22:43:45.119Z
 title: How to Code Review
 description: >-
   Code reviews present a challenge for Software Engineers this is how to do it
   in production companies like Snapchat and Goldman Sachs
-isPublished: true
 tags:
   - swe
+isPublished: true
 ---
 
 Reviewing code is the last line of defense before it enters production. I've had my code reviewed and been reviewing code for years now and while both have improved I've never formally documented my steps. This will serve both as a guide of what to review as well as things that have been reviewed in my code. The most embarrassing mistake is to be reviewed on the same thing in multiple pull requests.
@@ -37,6 +37,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Underlying asset names should reflex the public asset name
 - [ ] Files shouldn't receive an argument only to be used in a delegate call
 - [ ] Ensure optional casting (`coordinatorDidComplete`) cast to expected class
+- [ ] No network requests in `ViewController.init` or Views
 
 ## Web Development Concepts
 
