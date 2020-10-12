@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2020-08-06T17:58:56.230Z
-lastUpdated: 2020-10-08T17:58:56.259Z
+lastUpdated: 2020-10-12T17:58:56.259Z
 title: SQL Cheatsheet
 description: My favorite SQL Commands
 tags:
@@ -37,5 +37,7 @@ Count the number of rows in a table
 SELECT COUNT(*)
 FROM my_table
 ```
+
+Comments are prefixed with `--`
 
 [SQL Join Types](https://www.sql-join.com/sql-join-types/)
