@@ -1,19 +1,21 @@
 ---
 path: blog
-date: "2020-02-01T22:08:05.284Z"
-lastUpdated: 2020-09-18T14:08:00.000Z
+date: '2020-02-01T22:08:05.284Z'
+lastUpdated: 2020-10-12T14:08:00.000Z
 title: Marcus's Reading List
-description: "Book recommendations for computer science, product, and creatives"
-isPublished: true
+description: 'Book recommendations for computer science, product, and creatives'
 tags:
   - Amazon
+isPublished: true
 ---
 
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
 
-🏃‍♂️ [Factory Girls](https://www.amazon.com/gp/product/B001FA0URC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1) by Leslie T. Chang
+🏃‍♂️ [The Mole People](https://www.amazon.com/dp/B004D4YE1U/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Jennifer Toth
+
+[Factory Girls](https://www.amazon.com/gp/product/B001FA0URC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1) by Leslie T. Chang
 
 [American Kingpin](https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind/dp/1591848148) by [@NickBilton](https://twitter.com/nickbilton?s=20)
 
