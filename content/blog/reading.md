@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-10-12T14:08:00.000Z
+lastUpdated: 2020-10-14T14:08:00.000Z
 title: Marcus's Reading List
 description: 'Book recommendations for computer science, product, and creatives'
 tags:
@@ -13,7 +13,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [The Mole People](https://www.amazon.com/dp/B004D4YE1U/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Jennifer Toth
+[The Mole People](https://www.amazon.com/dp/B004D4YE1U/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Jennifer Toth
 
 [Factory Girls](https://www.amazon.com/gp/product/B001FA0URC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1) by Leslie T. Chang
 
