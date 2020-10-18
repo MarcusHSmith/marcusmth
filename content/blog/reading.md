@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-10-16T14:08:00.000Z
+lastUpdated: 2020-10-18T14:08:00.000Z
 title: Marcus's Reading List
 description: 'Book recommendations for computer science, product, and creatives'
 tags:
@@ -12,6 +12,8 @@ isPublished: true
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
+
+🏃‍♂️ [I Hope They Serve Beer In Hell](https://www.amazon.com/dp/B002MBD5V6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
 [The Mole People](https://www.amazon.com/dp/B004D4YE1U/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Jennifer Toth
 
