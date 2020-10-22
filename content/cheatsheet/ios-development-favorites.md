@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: '2019-12-10T22:12:03.284Z'
-lastUpdated: 2020-10-12T14:31:00.000Z
+lastUpdated: 2020-10-22T14:31:00.000Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -67,6 +67,8 @@ If I found a read useful, I should maintain a link to it.
 [iOS Provisioning Profile Guide](https://marcusmth.com/ios-provisioning-profile-guide/) by **MYSELF**
 
 [Better print debugging](https://sarunw.com/posts/better-print-debugging-with-xcode-breakpoints/) by [@sarunw](https://twitter.com/sarunw?s=20)
+
+[Dealing with Complex Table Views in iOS and Keeping Your Sanity](https://medium.cobeisfresh.com/dealing-with-complex-table-views-in-ios-and-keeping-your-sanity-ff5fee1fbb83) by [@marinbenc](https://twitter.com/marinbenc?s=20)
 
 ## Resources
 If I found this resource collection useful or was recommended it, I should maintain a link to it.
