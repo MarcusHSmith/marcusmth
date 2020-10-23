@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2020-09-29T22:43:45.119Z
+lastUpdated: 2020-10-23T22:43:45.119Z
 title: How to Code Review
 description: >-
   Code reviews present a challenge for Software Engineers this is how to do it
@@ -38,6 +38,8 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Files shouldn't receive an argument only to be used in a delegate call
 - [ ] Ensure optional casting (`coordinatorDidComplete`) cast to expected class
 - [ ] No network requests in `ViewController.init` or Views
+- [ ] Array append triggers a `didSet()`
+- [ ] Dequeue all UITableView cells
 
 ## Web Development Concepts
 
