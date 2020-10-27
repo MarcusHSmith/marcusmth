@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2020-08-06T17:58:56.230Z
-lastUpdated: 2020-10-12T17:58:56.259Z
+lastUpdated: 2020-10-27T17:58:56.259Z
 title: SQL Cheatsheet
 description: My favorite SQL Commands
 tags:
@@ -41,3 +41,5 @@ FROM my_table
 Comments are prefixed with `--`
 
 [SQL Join Types](https://www.sql-join.com/sql-join-types/)
+
+[Query Formatter](https://sql-format.com/)
