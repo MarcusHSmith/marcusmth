@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2020-08-06T17:58:56.230Z
-lastUpdated: 2020-10-27T17:58:56.259Z
+lastUpdated: 2020-10-27T21:58:00.000Z
 title: SQL Cheatsheet
 description: My favorite SQL Commands
 tags:
@@ -29,9 +29,15 @@ Migrations are sorted by timestamp. New migrations should have the largest times
 
 `LIKE` is equivalent to `=` unless wildcards are used `WHERE column_name LIKE '%input%'`
 
-`EXPLAIN` lists who what processes were run and costs
+`EXPLAIN` lists who what processes were run and costs - If it's in the 4 digits it's not too bad. `Seq Scan` are painful and solved through indexing columns.
 
 Count the number of rows in a table
+
+## PGSL
+
+`\d` describe all tables
+
+`\q` quit
 
 ```
 SELECT COUNT(*)
