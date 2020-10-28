@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2020-10-23T22:43:45.119Z
+lastUpdated: 2020-10-28T22:43:45.119Z
 title: How to Code Review
 description: >-
   Code reviews present a challenge for Software Engineers this is how to do it
@@ -49,6 +49,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Use `const` variables whenever possible
 - [ ] `let` is code smell, there is enough functional constructs to avoid `let`
 - [ ] Use absolute path for imports
+- [ ] Group network requests in single queries
 
 ### GraphQl
 
