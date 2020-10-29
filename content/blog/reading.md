@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-10-18T14:08:00.000Z
+lastUpdated: 2020-10-29T14:08:00.000Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -13,7 +13,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [I Hope They Serve Beer In Hell](https://www.amazon.com/dp/B002MBD5V6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
+[I Hope They Serve Beer In Hell](https://www.amazon.com/dp/B002MBD5V6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
 [The Mole People](https://www.amazon.com/dp/B004D4YE1U/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Jennifer Toth
 
