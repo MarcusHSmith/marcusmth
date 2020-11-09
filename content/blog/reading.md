@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-11-06T15:08:00.000Z
+lastUpdated: 2020-11-09T15:08:00.000Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -12,6 +12,8 @@ isPublished: true
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
+
+🏃‍♂️ [Exploding the Phone](https://www.amazon.com/dp/B009SAV5W0/?coliid=I3HJ0CSPJ5W4SN&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by Phil Lapsley
 
 [Never Split the Difference](https://www.amazon.com/dp/B014DUR7L2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@VossNegotiation](https://twitter.com/VossNegotiation?s=20)
 
