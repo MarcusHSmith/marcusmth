@@ -74,6 +74,8 @@ If I found a read useful, I should maintain a link to it.
 
 [@Escaping Closures in Swift](https://marcusmth.com/escaping-closures-in-swift/) by **MYSELF**
 
+[Extension Must Not Contain Stored Properties](https://marcusmth.com/extension-must-not-contain-stored-properties/) by **MYSELF**
+
 ## Resources
 If I found this resource collection useful or was recommended it, I should maintain a link to it.
 
