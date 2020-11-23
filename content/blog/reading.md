@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-11-09T15:08:00.000Z
+lastUpdated: 2020-11-23T15:08:00.000Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -13,7 +13,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 #2020
 
-🏃‍♂️ [Exploding the Phone](https://www.amazon.com/dp/B009SAV5W0/?coliid=I3HJ0CSPJ5W4SN&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by Phil Lapsley
+🏃‍♂️ [Clean](https://www.amazon.com/Clean-Science-Skin-James-Hamblin/dp/0525538313/ref=asc_df_0525538313/?tag=hyprod-20&linkCode=df0&hvadid=459770216327&hvpos=&hvnetw=g&hvrand=2674018716065550656&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9026793&hvtargid=pla-919414729349&psc=1) by [@jameshamblin](https://twitter.com/jameshamblin?s=20)
+
+[Exploding the Phone](https://www.amazon.com/dp/B009SAV5W0/?coliid=I3HJ0CSPJ5W4SN&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by Phil Lapsley
 
 [Never Split the Difference](https://www.amazon.com/dp/B014DUR7L2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@VossNegotiation](https://twitter.com/VossNegotiation?s=20)
 
