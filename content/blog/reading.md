@@ -1,7 +1,7 @@
 ---
 path: blog
 date: '2020-02-01T22:08:05.284Z'
-lastUpdated: 2020-12-04T15:08:00.000Z
+lastUpdated: 2020-12-08T15:08:00.000Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -12,6 +12,8 @@ isPublished: true
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 #2020
+
+🏃‍♂️ [Nudge](https://www.amazon.com/dp/B00A5DCALY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@R_Thaler](https://twitter.com/R_Thaler?s=20) & [@CassSunstein](https://twitter.com/CassSunstein?s=20)
 
 [Greenlights](https://www.amazon.com/dp/B08DFKSZDF/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@McConaughey](https://twitter.com/McConaughey?s=20)
 
