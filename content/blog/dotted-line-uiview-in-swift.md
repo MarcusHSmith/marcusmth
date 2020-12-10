@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-12-04T23:16:02.806Z
-lastUpdated: 2020-12-04T23:16:02.848Z
+lastUpdated: 2020-12-10T23:16:02.848Z
 title: Dotted Line UIView in Swift
 description: Create a horizontal dotted or dashed line in Swift with UIView and CALayer
 tags:
@@ -28,6 +28,7 @@ class DashedLineHorizonatalView: UIView {
     }
 
     private func setup() {
+        height(3)
         let shapeLayer = CAShapeLayer()
         shapeLayer.strokeColor = UIColor.gray.cgColor
         shapeLayer.lineWidth = 1
