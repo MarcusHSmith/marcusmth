@@ -8,6 +8,7 @@ tags:
   - swift
 isPublished: true
 ---
+
 Creating a dashed or dotted line in Swift requires a `CAShapeLayer`. Here is an overview on `CALayer` from [RayWenderlich](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started).
 
 This [StackOverflow Question](https://stackoverflow.com/q/58992662/2228688) shows how to create a dotted line in a layer.

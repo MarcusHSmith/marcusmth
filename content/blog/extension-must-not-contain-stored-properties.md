@@ -8,6 +8,7 @@ tags:
   - swift
 isPublished: true
 ---
+
 The error `Extension Must Not Contain Stored Properties` is common in Swift. This occurs when a variable is instantiated inside a class extension.
 
 ```

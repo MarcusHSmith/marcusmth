@@ -44,9 +44,8 @@ class BlogPostTemplate extends React.Component {
             }}
           />
           <footer>
-            <Divider />
-            <Bio />
             <MailChimpForm />
+            <Bio />
           </footer>
         </article>
       </Layout>

@@ -2,12 +2,13 @@
 path: blog
 date: 2020-11-13T23:43:45.078Z
 lastUpdated: 2020-11-16T19:43:00.000Z
-title: '@Escaping Closures in Swift'
+title: "@Escaping Closures in Swift"
 description: Success and Failure Closures in Swift
 tags:
   - swift
 isPublished: true
 ---
+
 Success and Failure blocks are all over Swift code bases. They are a useful tool to do asynchronous tasks and wait for network requests. A standard signature is:
 
 ```
@@ -46,6 +47,7 @@ func foo(success: @escaping () -> Void, failure: @escaping () -> Void) {
   }
 }
 ```
+
 The network request closure work the same, but the closure outside the network request needs to be handled differently. That closure is wrapped in a `DispatchQueue.main.async` which calls it asynchronously on the main thread. Without this, some closures would be called asynchronously while others were called synchronously.
 
 The `@escaping` keyword in the function parameter specifies this and signifies that the closures are called asynchronously.

@@ -61,16 +61,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: [
-          "UA-9911244-2"
-        ],
+        trackingIds: ["UA-9911244-2"],
         gtagConfig: {
           anonymize_ip: true,
           cookie_expires: 0,
         },
         pluginConfig: {
           head: false,
-          exclude: ["/admin/**"]
+          exclude: ["/admin/**"],
         },
       },
     },
