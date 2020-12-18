@@ -8,7 +8,7 @@ tags:
   - ios
 isPublished: true
 ---
-![AppStoreConnect Error Newer Build Available](static/assets/newer_build_available.png)
+![AppStoreConnect Error Newer Build Available](https://marcusmth.com/assets/newer_build_available.png)
 
 This error occurs when an AppStoreConnect build is submitted for review but later rejected. Then the developer submits a newer build.
 
