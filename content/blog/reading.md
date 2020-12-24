@@ -11,7 +11,7 @@ isPublished: true
 
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
-#2020
+##2020
 
 🏃‍♂️ [Lives of the Stoics](https://www.amazon.com/Lives-Stoics-Living-Marcus-Aurelius/dp/052554187X) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
@@ -65,7 +65,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Operator: David Geffen Builds, Buys, and Sells the New Hollywood](https://amzn.to/39QoynF) by Thomas R. King
 
-#2019
+##2019
 
 [It Doesn't Have to Be Crazy at Work](https://amzn.to/2uH90ni) by [@JasonFried](https://twitter.com/jasonfried?s=20)
 
@@ -77,7 +77,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/3bKtw76) by [@SleepDiplomat](https://twitter.com/sleepdiplomat?s=20)
 
-#2018
+##2018
 
 [Hooked: How to Build Habit-Forming Products](https://amzn.to/2SO3ZkB) by [@Nireyal](https://twitter.com/nireyal?s=20)
 
@@ -95,17 +95,17 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Ishmael](https://amzn.to/3eQqcIo) by Daniel Quinn
 
-#2017
+##2017
 
 [Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
 [Thinking, Fast and Slow](https://amzn.to/3gV3h03) by Daniel Kahneman
 
-#2016
+##2016
 
 [The Power Of Habit](https://amzn.to/3cwHKrn) by [@cduhigg](https://twitter.com/cduhigg?s=20)
 
-#2015
+##2015
 
 [Paper Towns](https://amzn.to/3eOyYX7) by [@JohnGreen](https://twitter.com/johngreen?s=20)
 
@@ -113,7 +113,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Vagabonding](https://amzn.to/3eQ2PhX) by [@RolfPotts](https://twitter.com/rolfpotts?s=20)
 
-#2014
+##2014
 
 [Life of Pi](https://amzn.to/309oZro) by Yann Martel
 
@@ -133,7 +133,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Losing My Virginity](https://amzn.to/36Xty9J) by [@RichardBranson](https://twitter.com/richardbranson?s=20)
 
-#2013
+##2013
 
 [The 4-Hour Chef](https://amzn.to/3748Xka) by [@tferriss](https://twitter.com/tferriss?s=20)
 
@@ -143,6 +143,6 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](https://amzn.to/3ePsqbb) by Marc Levinson
 
-#1999
+##1999
 
 Learned to read
