@@ -6,7 +6,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 import MailChimpForm from "../components/mailChimpForm"
-import { Divider } from "semantic-ui-react"
 
 class BlogPostTemplate extends React.Component {
   render() {
