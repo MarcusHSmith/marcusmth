@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-01-05T15:08:07.446Z
+lastUpdated: 2021-01-11T14:38:53.492Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -11,13 +11,15 @@ isPublished: true
 
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
-##2020
+##2021
 
 🏃‍♂️ [Clean Code](https://www.amazon.com/dp/0132350882/?coliid=I85H8Z061SHNX&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by [@UncleBobMartin](https://twitter.com/unclebobmartin?s=20)
 
-[Lives of the Stoics](https://www.amazon.com/Lives-Stoics-Living-Marcus-Aurelius/dp/052554187X) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
+[Nudge](https://www.amazon.com/dp/B00A5DCALY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@R_Thaler](https://twitter.com/R_Thaler?s=20) & [@CassSunstein](https://twitter.com/CassSunstein?s=20)
 
-🏃‍♂️ [Nudge](https://www.amazon.com/dp/B00A5DCALY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@R_Thaler](https://twitter.com/R_Thaler?s=20) & [@CassSunstein](https://twitter.com/CassSunstein?s=20)
+##2020
+
+[Lives of the Stoics](https://www.amazon.com/Lives-Stoics-Living-Marcus-Aurelius/dp/052554187X) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
 [Greenlights](https://www.amazon.com/dp/B08DFKSZDF/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@McConaughey](https://twitter.com/McConaughey?s=20)
 
