@@ -1,12 +1,12 @@
 ---
 path: cheatsheet
 date: 2020-07-29T15:35:49.141Z
-lastUpdated: 2020-09-09T15:35:49.187Z
+lastUpdated: 2021-01-12T16:24:29.798Z
 title: Docker Cheatsheet
 description: My favorite Docker Commands
-isPublished: true
 tags:
   - docker
+isPublished: true
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
@@ -18,3 +18,5 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 `$ docker stats` see machine stats while running docker commands
 
 If docker throws memory errors `du -sh ~/Library/Containers/com.docker.docker/Data/vms/0/data/Docker.raw` then `rm ~/Library/Containers/com.docker.docker/Data/vms/0/data/Docker.raw` to clear memory
+
+`docker-compose -f docker-compose-local.yml up -d` launch docker
