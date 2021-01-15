@@ -1,12 +1,12 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2021-01-15T20:35:16.844Z
+lastUpdated: 2021-01-15T21:38:51.556Z
 title: How to Code Review
 description: Code reviews present a challenge for Software Engineers this is how
   to do it in production companies like Snapchat and Goldman Sachs
 tags:
-  - swe
+  - software engineering
 isPublished: true
 ---
 
@@ -40,6 +40,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Array append triggers a `didSet()`
 - [ ] Dequeue all UITableView cells
 - [ ] `viewDidLayoutSubviews()` is called often
+- [ ] Network requests in services or coordinators 
 
 ## Web Development Concepts
 
