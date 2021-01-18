@@ -40,7 +40,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Array append triggers a `didSet()`
 - [ ] Dequeue all UITableView cells
 - [ ] `viewDidLayoutSubviews()` is called often
-- [ ] Network requests in services or coordinators 
+- [ ] Network requests in services or coordinators
 
 ## Web Development Concepts
 

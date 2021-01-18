@@ -4,7 +4,6 @@ import PropTypes from "prop-types"
 
 function YoutubePlayer({videoId}) {
     const opts = {
-      height: 'auto',
       width: '100%',
       playerVars: {
         autoplay: 0
