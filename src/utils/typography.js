@@ -8,15 +8,15 @@ Wordpress2016.overrideThemeStyles = () => {
     },
     "p code": {
       fontSize: "1rem",
-      backgroundColor: "#e6f7ff"
+      backgroundColor: "#e6f7ff",
     },
-    "pre": {
+    pre: {
       fontSize: "0.3rem",
       backgroundColor: "#e6f7ff",
       borderRadius: "4px",
       padding: "4px",
-      overflow: "auto"
-    }
+      overflow: "auto",
+    },
   }
 }
 
