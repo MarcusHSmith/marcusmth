@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2021-01-15T21:38:51.556Z
+lastUpdated: 2021-02-04T17:56:50.079Z
 title: How to Code Review
 description: Code reviews present a challenge for Software Engineers this is how
   to do it in production companies like Snapchat and Goldman Sachs
@@ -55,3 +55,6 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 ### GraphQl
 
 - [ ] Schema fields need to be resolved
+- [ ] Avoid referencing object ID when the entire object can be passed
+- [ ] Entity variable that are nullable should also be of type `T | null`
+
