@@ -6,11 +6,13 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 import MailChimpForm from "../components/mailChimpForm"
+import YoutubePlayer from "../components/youtube-player"
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -36,6 +38,8 @@ class BlogPostTemplate extends React.Component {
               {post.frontmatter.date}
             </p>
           </header>
+          <p>{post.videoId}</p>
+          {post.frontmatter.videoId !== null && (<YoutubePlayer videoId={post.frontmatter.videoId}/>)}
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr
             style={{
@@ -70,6 +74,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        videoId
       }
     }
   }

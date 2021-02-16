@@ -54,6 +54,8 @@ const Bio = () => {
         <a href={`/`}>Posts</a>
         {` `}
         <a href={`/cheatsheet`}>Cheatsheets</a>
+        {` `}
+        <a href={`/drone`}>Drone</a>
         <br />
         <a href={`https://www.instagram.com/${social.instagram}`}>Instagram</a>
         {` `}
