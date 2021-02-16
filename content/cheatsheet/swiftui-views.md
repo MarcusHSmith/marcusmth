@@ -12,3 +12,6 @@ isPublished: true
 - `Text(...)` used to display a label
 - `VStack{ }` used to show views in a vertical orientation
 - `HStack{ }` used to show views in a horizontal orientation
+- `Toggle(...)` flip a boolean switch
+- `NavigationLink(destination: ...)` Wrap a view with this to make it clickable
+- `ScrollView(...)` wrap a `VStack` in this to make it scrollable
