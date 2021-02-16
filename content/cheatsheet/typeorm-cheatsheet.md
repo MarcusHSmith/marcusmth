@@ -8,6 +8,7 @@ tags:
   - typeorm
 isPublished: true
 ---
+
 How to use joins with `.find(` [link](https://github.com/typeorm/typeorm/issues/5215#issuecomment-566253819)
 
-To add a limit to a `find(` request, add the keyword `take: `
+To add a limit to a `find(` request, add the keyword `take:`

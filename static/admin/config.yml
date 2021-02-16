@@ -32,3 +32,13 @@ collections:
       - { name: tags, label: Tags, widget: list }
       - { name: isPublished, label: Is Published, widget: boolean }
       - { name: body, label: Body, widget: markdown }
+  - name: drone
+    label: Drone
+    folder: content/drone
+    create: true
+    fields:
+      - { name: path, label: Path, default: "drone", widget: string }
+      - { name: date, label: Original Date, widget: datetime }
+      - { name: title, label: Title }
+      - { name: videoId, label: videoId }
+      

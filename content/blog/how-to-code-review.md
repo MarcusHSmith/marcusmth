@@ -57,4 +57,3 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Schema fields need to be resolved
 - [ ] Avoid referencing object ID when the entire object can be passed
 - [ ] Entity variable that are nullable should also be of type `T | null`
-

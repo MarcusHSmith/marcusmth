@@ -1,48 +1,78 @@
 import React from "react"
-import { graphql } from "gatsby"
-
-import Bio from "../../components/bio"
-import Layout from "../../components/layout"
+import { graphql, Link } from "gatsby"
 import SEO from "../../components/seo"
-import YoutubePlayer from "../../components/youtube-player"
+import Layout from "../../components/layout"
+import Bio from "../../components/bio"
+import MailChimpForm from "../../components/mailChimpForm"
+import { Segment } from 'semantic-ui-react';
 import { rhythm } from "../../utils/typography"
 
-class BlogIndex extends React.Component {
+class DroneIndex extends React.Component {
   render() {
-    // const { data } = this.props
-    const siteTitle = "Marcusmth"
-    // const posts = data.allYoutubeVideo.edges
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="All drone posts" />
+    const { data, location } = this.props
+
+      return (
+        <Layout 
+        location={location} 
+        title={"Marcusmth"}
+    >
+        <SEO title="Marcus Smith Software Engineering iOS Blog" />
         <Bio />
-        <p>Unavailable currently</p>
+        {data.allMarkdownRemark.edges
+          .map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            return (
+              <Segment key={title}>
+              <article key={node.fields.slug}>
+                <header>
+                  <h3
+                    style={{
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
+                    <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                      {title}
+                    </Link>
+                  </h3>
+                  <small>{node.frontmatter.lastUpdated}</small>
+                </header>
+              </article>
+              </Segment>
+            )
+          })}
+        <MailChimpForm />
       </Layout>
-    )
+      )
   }
 }
 
-export default BlogIndex
+export default DroneIndex
 
-// export const pageQuery = graphql`
-//   query {
-//     allYoutubeVideo(filter: { channelId: { eq: "UCzLPnJlM_5IEe2djVMB2jLA" } }) {
-//       edges {
-//         node {
-//           id
-//           title
-//           thumbnail {
-//             url
-//             width
-//             height
-//           }
-//           description
-//           videoId
-//           publishedAt
-//           privacyStatus
-//           channelTitle
-//         }
-//       }
-//     }
-//   }
-// `
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___lastUpdated], order: DESC }
+      filter: { frontmatter: { path: { eq: "drone"}}}
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            lastUpdated(formatString: "MMMM DD, YYYY")
+            title
+            videoId
+            path
+          }
+        }
+      }
+    }
+  }
+`
