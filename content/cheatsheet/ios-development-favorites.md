@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2019-12-10T22:12:03.284Z
-lastUpdated: 2020-12-26T19:56:51.729Z
+lastUpdated: 2021-02-17T23:17:15.048Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -88,3 +88,5 @@ If I found this resource collection useful or was recommended it, I should maint
 [Use Your Loaf](https://useyourloaf.com/) by Keith Harrison
 
 [KHANLOU](http://khanlou.com/) by Soroush Khanlou
+
+[SwiftUI Cheatsheet](https://marcusmth.com/swiftui-cheatsheet/) by **MYSELF**
