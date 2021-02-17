@@ -16,3 +16,5 @@ isPublished: true
 
 ### Write Ups
 [What’s the difference between @ObservedObject, @State, and @EnvironmentObject?](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject) by [@TwoStraws](https://twitter.com/twostraws?s=20)
+
+[Toggle calls function on change](https://marcusmth.com/swiftui-toggle-call-function-on-change/) by **MYSELF**
