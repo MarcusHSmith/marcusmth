@@ -11,6 +11,7 @@ isPublished: true
 ---
 ### Other Cheatsheets
 [iOS Development](https://marcusmth.com/ios-development-favorites/)
+
 [SwiftUI Views](https://marcusmth.com/swiftui-views/)
 
 ### Write Ups
