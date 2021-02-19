@@ -1,15 +1,17 @@
 ---
 path: cheatsheet
-date: "2019-10-27T22:12:03.284Z"
-lastUpdated: "2020-03-24T15:22:03.284Z"
+date: 2019-10-27T22:12:03.284Z
+lastUpdated: 2021-02-19T20:41:45.078Z
 title: Git Cheatsheet
 description: My favorite Git Commands
-isPublished: true
 tags:
   - github
+isPublished: true
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
+
+### Commands
 
 `$ git commit --amend` includes current staged commit with last commit
 
@@ -27,6 +29,8 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 
 `$ git branch -D [branchName]` delete branch
 
-If I found a read useful, I should maintain a link to it.
+`$ git checkout [branchName]` return to latest commit on branch
+
+### Posts
 
 [How to write a good commit message](https://juffalow.com/other/write-good-git-commit-message) by Matej Jellus
