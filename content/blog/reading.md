@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-02-01T14:58:01.328Z
+lastUpdated: 2021-02-24T15:16:44.266Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -12,6 +12,8 @@ isPublished: true
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 ##2021
+
+🏃‍♂️ [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_4?dchild=1&keywords=creativity&qid=1614179717&sr=8-4) by [@edcatmull](https://twitter.com/edcatmull?s=20)
 
 [Breath](https://www.amazon.com/dp/0735213615/?coliid=ILOYS6334SHWS&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by [@MrJamesNestor](https://twitter.com/MrJamesNestor?s=20)
 
