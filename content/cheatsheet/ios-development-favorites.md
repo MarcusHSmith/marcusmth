@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2019-12-10T22:12:03.284Z
-lastUpdated: 2021-02-17T23:17:15.048Z
+lastUpdated: 2021-03-22T17:25:36.434Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -90,3 +90,5 @@ If I found this resource collection useful or was recommended it, I should maint
 [KHANLOU](http://khanlou.com/) by Soroush Khanlou
 
 [SwiftUI Cheatsheet](https://marcusmth.com/swiftui-cheatsheet/) by **MYSELF**
+
+[Protocol composition in Swift and Objective-C](https://www.jessesquires.com/blog/2017/06/05/protocol-composition-in-swift-and-objc/) by [@jesse_squires](https://twitter.com/jesse_squires?s=20)
