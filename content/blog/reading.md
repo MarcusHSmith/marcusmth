@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-04-05T16:14:27.779Z
+lastUpdated: 2021-04-12T14:40:14.557Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -12,6 +12,8 @@ isPublished: true
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 ##2021
+
+🏃‍♂️ [Red Notice](https://www.amazon.com/Red-Notice-Finance-Murder-Justice-ebook/dp/B00LD1ORX6/ref=sr_1_1?dchild=1&keywords=red+notice&qid=1618238352&sr=8-1) by [@Billbrowder](https://twitter.com/Billbrowder?s=20)
 
 [Skunk Works](https://www.amazon.com/dp/B00A2DIW3C/?coliid=IZNU9LHE40S5&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by Ben R. Rich
 
