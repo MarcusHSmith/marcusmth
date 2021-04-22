@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2019-12-10T22:12:03.284Z
-lastUpdated: 2021-03-22T17:25:36.434Z
+lastUpdated: 2021-04-22T15:18:39.961Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -80,6 +80,8 @@ If I found a read useful, I should maintain a link to it.
 [Extension Must Not Contain Stored Properties](https://marcusmth.com/extension-must-not-contain-stored-properties/) by **MYSELF**
 
 [How to Add Testers to Test the iOS App in TestFlight](https://help.muvi.com/help/how-to-add-testers-to-test-the-ios-app-in-testflight.html)
+
+[OptionSet](https://medium.com/@ahmadfayyas/swift-more-elegant-code-optionset-205e4866b4aa) by Ahmad Fayyas
 
 ## Resources
 
