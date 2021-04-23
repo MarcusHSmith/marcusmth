@@ -9,6 +9,7 @@ tags:
   - swiftui
 isPublished: true
 ---
+
 SwiftUI makes `NavigationView`(s) much simpler. [Apple Developer Docs](https://developer.apple.com/documentation/swiftui/navigationview)
 
 The parent view wraps its content in a `NavigationView { ...content...}`. The children's outer view set their `.navigationBarTitle("Title")`

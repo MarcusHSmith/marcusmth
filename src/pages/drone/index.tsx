@@ -16,7 +16,7 @@ class DroneIndex extends React.Component {
         location={location} 
         title={"Marcusmth"}
     >
-        <SEO title="Marcus Smith Software Engineering iOS Blog" />
+        <SEO title="Marcus Smith Drone Footage" />
         <Bio />
         {data.allMarkdownRemark.edges
           .map(({ node }) => {

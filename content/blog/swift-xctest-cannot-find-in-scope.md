@@ -8,6 +8,7 @@ tags:
   - swift
 isPublished: true
 ---
+
 When creating Swift tests in `XCTest`, the files being tested need to have `Target Membership` in the test target. If the test file throw an error `Cannot find _ in scope`, the solution is to add the file you intend to test to the test target.
 
 1. Open the file you intend to test.

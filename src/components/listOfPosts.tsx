@@ -3,9 +3,6 @@ import React from "react"
 import { Segment } from 'semantic-ui-react';
 
 import 'semantic-ui-css/semantic.min.css'
-import Layout from "./layout";
-import SEO from "./seo";
-import Bio from "./bio";
 import { rhythm } from "../utils/typography";
 import { Link } from "gatsby";
 import MailChimpForm from "./mailChimpForm";
@@ -13,12 +10,6 @@ import MailChimpForm from "./mailChimpForm";
 const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
     return (
     <>
-    <Layout 
-        location={props.location} 
-        title={"Marcusmth"}
-    >
-        <SEO title="Marcus Smith Software Engineering iOS Blog" />
-        <Bio />
         {props.posts
           .filter(({ node }) => node.frontmatter.isPublished)
           .map(({ node }) => {
@@ -50,7 +41,6 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
             )
           })}
         <MailChimpForm />
-      </Layout>
       </>
     )
 }

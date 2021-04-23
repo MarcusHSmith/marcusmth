@@ -9,6 +9,7 @@ tags:
   - swiftui
 isPublished: true
 ---
+
 - `Text(...)` used to display a label
 - `VStack{ }` used to show views in a vertical orientation
 - `HStack{ }` used to show views in a horizontal orientation

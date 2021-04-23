@@ -10,6 +10,7 @@ tags:
   - ios13
 isPublished: true
 ---
+
 ## Setup a SwiftUI Toggle in iOS 13
 
 Pass in property to `car` (not state)
@@ -32,7 +33,7 @@ struct CarView: View {
             hasWheels = value
             // call function to send network request
           }
-        ), 
+        ),
         label: {
           Text("Does car have wheels?").bold()
         }
