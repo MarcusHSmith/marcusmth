@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-04-19T13:52:53.380Z
+lastUpdated: 2021-05-01T17:13:38.150Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -13,7 +13,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ##2021
 
-🏃‍♂️ [The Spy and the Traitor](https://read.amazon.com/kp/embed?asin=B0782X9PFP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_0NF5YRKHVD26AGN0XCQT) by [@BenMacintyre1](https://twitter.com/BenMacintyre1?s=20)
+[The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho-ebook/dp/B00U6SFUSS/ref=sr_1_1?crid=2BD2VBHQ8LQLH&dchild=1&keywords=the+alchemist&qid=1619889205&sprefix=the+alche%2Caps%2C225&sr=8-1) by [@PauloCoehlo](https://twitter.com/PauloCoehlo?s=20)
+
+[The Spy and the Traitor](https://read.amazon.com/kp/embed?asin=B0782X9PFP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_0NF5YRKHVD26AGN0XCQT) by [@BenMacintyre1](https://twitter.com/BenMacintyre1?s=20)
 
 [Red Notice](https://www.amazon.com/Red-Notice-Finance-Murder-Justice-ebook/dp/B00LD1ORX6/ref=sr_1_1?dchild=1&keywords=red+notice&qid=1618238352&sr=8-1) by [@Billbrowder](https://twitter.com/Billbrowder?s=20)
 
