@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-05-01T17:13:38.150Z
+lastUpdated: 2021-05-18T14:19:28.104Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -12,6 +12,8 @@ isPublished: true
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
 ##2021
+
+🏃‍♂️ [Kitchen Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_1?dchild=1&keywords=kitchen+confidential&qid=1621347487&sr=8-1) by Anthony Bourdain
 
 [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho-ebook/dp/B00U6SFUSS/ref=sr_1_1?crid=2BD2VBHQ8LQLH&dchild=1&keywords=the+alchemist&qid=1619889205&sprefix=the+alche%2Caps%2C225&sr=8-1) by [@PauloCoehlo](https://twitter.com/PauloCoehlo?s=20)
 
