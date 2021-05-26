@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2019-12-10T22:12:03.284Z
-lastUpdated: 2021-04-22T15:18:39.961Z
+lastUpdated: 2021-05-26T19:53:33.844Z
 title: iOS Development and XCode Cheatsheet
 description: My Favorite iOS Development and XCode Commands and Reads
 tags:
@@ -32,6 +32,8 @@ To iterate over an enum type ensure it is `CaseIterable`
 `⌘ + ⇧ + {` OR `⌘ + ⇧ + }` Switch tabs
 
 `⌘ + + OR ⌘ + -` Zoom in or out of window. Specifically useful for the console
+
+`rm -rf ~/Library/Developer/Xcode/DerivedData` Clear Derived Data
 
 ## Posts
 
