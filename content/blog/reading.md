@@ -13,7 +13,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ##2021
 
-[The Fountainhead](https://www.amazon.com/dp/0452286751/?coliid=I3SO485Z9UG5IG&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by Ayn Rand
+🏃‍♂️ [The Fountainhead](https://www.amazon.com/dp/0452286751/?coliid=I3SO485Z9UG5IG&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by Ayn Rand
 
 [Kitchen Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_1?dchild=1&keywords=kitchen+confidential&qid=1621347487&sr=8-1) by Anthony Bourdain
 
