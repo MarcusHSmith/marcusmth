@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-05-18T14:19:28.104Z
+lastUpdated: 2021-06-04T01:11:08.062Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -13,7 +13,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ##2021
 
-🏃‍♂️ [Kitchen Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_1?dchild=1&keywords=kitchen+confidential&qid=1621347487&sr=8-1) by Anthony Bourdain
+[The Fountainhead](https://www.amazon.com/dp/0452286751/?coliid=I3SO485Z9UG5IG&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by Ayn Rand
+
+[Kitchen Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_1?dchild=1&keywords=kitchen+confidential&qid=1621347487&sr=8-1) by Anthony Bourdain
 
 [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho-ebook/dp/B00U6SFUSS/ref=sr_1_1?crid=2BD2VBHQ8LQLH&dchild=1&keywords=the+alchemist&qid=1619889205&sprefix=the+alche%2Caps%2C225&sr=8-1) by [@PauloCoehlo](https://twitter.com/PauloCoehlo?s=20)
 
@@ -27,7 +29,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 [Breath](https://www.amazon.com/dp/0735213615/?coliid=ILOYS6334SHWS&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by [@MrJamesNestor](https://twitter.com/MrJamesNestor?s=20)
 
-🏃‍♂️ [Clean Code](https://www.amazon.com/dp/0132350882/?coliid=I85H8Z061SHNX&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by [@UncleBobMartin](https://twitter.com/unclebobmartin?s=20)
+[Clean Code](https://www.amazon.com/dp/0132350882/?coliid=I85H8Z061SHNX&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by [@UncleBobMartin](https://twitter.com/unclebobmartin?s=20)
 
 [Nudge](https://www.amazon.com/dp/B00A5DCALY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@R_Thaler](https://twitter.com/R_Thaler?s=20) & [@CassSunstein](https://twitter.com/CassSunstein?s=20)
 
