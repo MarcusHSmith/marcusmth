@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2021-05-27T16:06:23.755Z
-lastUpdated: 2021-05-27T16:06:23.794Z
+lastUpdated: 2021-06-04T16:25:45.872Z
 title: SwiftUI isn't ready for production
 description: Why we didn't and you shouldn't switch to SwiftUI yet
 tags:
@@ -24,6 +24,6 @@ This means that in order to replace a current UIKit application, at least iOS 15
 Designing and developing SwiftUI apps now go hand in hand. SwiftUI relies on many iOS SDK fundamentals and abstracts these away from the developer. This will lead to better longevity of the app only if everything isn't super customized. If an app is planning to use SwiftUI it's important that the designers on the project are aware of this and only use features that are already in the SwiftUI SDK.
 
 ### Should I convert my product to SwiftUI
-For us we had less than 0.5% of users were on devices that would never be able to use iOS 13. We were willing to leave them behind on the current build. However the feature limitations of iOS 13 and iOS 14 meant that we would need to target iOS 14 or maybe even iOS 15 to build a complete app.
+For us, we had less than 0.5% of users on devices that would never be able to use iOS 13. We were willing to leave them behind on the current build. However the feature limitations of iOS 13 and iOS 14 meant that we would need to target iOS 14 or maybe even iOS 15 to build a complete app.
 
 It didn't make sense for us to cut off that many users from new feature development. Ideally we would leave less than 1% of users behind. Unfortunately all of this is to say, I doubt we will have these numbers in the next 2 years. I'll keep an eye open for things to change, but currently we're continuing with UIKit. We will likely revisit in 2023.
