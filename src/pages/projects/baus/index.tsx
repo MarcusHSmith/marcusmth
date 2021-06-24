@@ -15,6 +15,8 @@ const BausApp = ({location}) => {
       <Header>Support for Baus App</Header>
       <p>Contact Marcus on Twitter</p>
       <a href={`https://twitter.com/marcusmth`}>Twitter</a>
+      <br/>
+      <a href={`/projects/baus/privacypolicy/`}>Privacy Policy</a>
     </Layout>
   )
 }
