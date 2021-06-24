@@ -10,13 +10,12 @@ tags:
   - appStoreConnect
 isPublished: true
 ---
+
 The three aspects are Identifiers, Device, and then Provisioning Profile. Visit [Apple Developers](https://developer.apple.com/account/resources/certificates/list) to manage these.
 
 In Profiles -> Edit ensure certificates and correct device are checked before saving and downloading profile.
 
 Once downloaded, open which loads into Keychain and Xcode.
-
-
 
 ### Certificate Types
 

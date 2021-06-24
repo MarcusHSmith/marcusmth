@@ -9,6 +9,7 @@ tags:
   - typescript
 isPublished: true
 ---
+
 The Graphql documentation glosses over some basic points in teaching unions. These caused me some issues and maybe you too. It's recommended that you read the [documentation](https://www.apollographql.com/docs/apollo-server/schema/unions-interfaces/) first.
 
 In this example I have a `User` type and I want to add an `avatar` field. This can either be an `AvatarImage` or `AvatarIntials`.
@@ -16,6 +17,7 @@ In this example I have a `User` type and I want to add an `avatar` field. This c
 ## Code
 
 ### `schema.graphql`
+
 ```
 type User {
   ...
@@ -34,33 +36,35 @@ type AvatarInitials {
 ```
 
 Create a file to create these classes in javascript or typescript.
+
 ### `UserAvatar.ts`
+
 ```
 export abstract class UserAvatar {
     abstract get typename(): string;
   }
-  
+
   export class AvatarImage extends UserAvatar {
     readonly image: ImageModel;
-  
+
     constructor(image: ImageModel) {
       super();
       this.image = image;
     }
-  
+
     get typename() {
       return "AvatarImage";
     }
   }
-  
+
   export class AvatarInitials extends UserAvatar {
     readonly initials: String;
-  
+
     constructor(initials: String) {
       super();
       this.initials = initials;
     }
-  
+
     get typename() {
       return "AvatarInitials";
     }
@@ -68,6 +72,7 @@ export abstract class UserAvatar {
 ```
 
 ### `userResolver.ts`
+
 ```
 export default {
   User: {
@@ -86,6 +91,7 @@ export default {
 ```
 
 ### `User.ts`
+
 ```
 export default class User {
   ...
@@ -100,12 +106,13 @@ export default class User {
 ```
 
 ## Learnings
+
 I missed a few things while building this. I nested `avatar` or `UserAvatar` in the `User` block. I also didn't know where to provide the value which turned out to be the `User` entity.
 
 ## Errors
+
 This helped solve my error messages of
 
 `"Abstract type \"UserAvatar\" must resolve to an Object type at runtime for field \"User.avatar\". Either the \"PUserAvatar\" type should provide a \"resolveType\" function or each possible type should provide an \"isTypeOf\" function."`
 
 `"Cannot return null for non-nullable field User.avatar."`
-
