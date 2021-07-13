@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 import MailChimpForm from "../components/mailChimpForm"
 import YoutubePlayer from "../components/youtube-player"
+import { Label } from "semantic-ui-react"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -14,7 +15,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title="Posts">
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
@@ -31,12 +32,14 @@ class BlogPostTemplate extends React.Component {
             <p
               style={{
                 ...scale(-1 / 5),
-                display: `block`,
-                marginBottom: rhythm(1),
+                display: `block`
               }}
             >
               {post.frontmatter.date}
             </p>
+            {post.frontmatter.tags.sort().map(t => (
+              <Label color='blue' size='small'>{t}</Label>
+            ))}
           </header>
           <p>{post.videoId}</p>
           {post.frontmatter.videoId !== null && (<YoutubePlayer videoId={post.frontmatter.videoId}/>)}
@@ -73,6 +76,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
         description
         videoId
       }
