@@ -6,7 +6,7 @@ title: Cheapest Short Term Car Rentals
 description: Where to find the lowest priced cars for one to multiple months
 tags:
   - rental
-  - car 
+  - car
   - travel
 isPublished: true
 ---

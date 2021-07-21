@@ -5,7 +5,6 @@ import { Segment } from 'semantic-ui-react';
 import 'semantic-ui-css/semantic.min.css'
 import { rhythm } from "../utils/typography";
 import { Link } from "gatsby";
-import MailChimpForm from "./mailChimpForm";
 
 const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
     return (
@@ -40,7 +39,6 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
               </Segment>
             )
           })}
-        <MailChimpForm />
       </>
     )
 }

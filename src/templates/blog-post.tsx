@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -8,6 +8,7 @@ import { rhythm, scale } from "../utils/typography"
 import MailChimpForm from "../components/mailChimpForm"
 import YoutubePlayer from "../components/youtube-player"
 import { Label } from "semantic-ui-react"
+import kebabCase from "lodash/kebabCase"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -37,9 +38,17 @@ class BlogPostTemplate extends React.Component {
             >
               {post.frontmatter.date}
             </p>
-            {post.frontmatter.tags.sort().map(t => (
-              <Label color='blue' size='small'>{t}</Label>
-            ))}
+                        <div 
+                style={{
+                display: `flex`, flexWrap: 'wrap'
+            }}>
+                {post.frontmatter.tags.sort().map(tag => (
+                    <Link style={{ boxShadow: `none`, paddingBottom: 8, paddingRight: 8 }} to={`/tags/${kebabCase(tag)}/`}>
+                        <Label color='blue' size='small'>{kebabCase(tag)}</Label>
+                    </Link>
+         )
+        )}
+        </div>
           </header>
           <p>{post.videoId}</p>
           {post.frontmatter.videoId !== null && (<YoutubePlayer videoId={post.frontmatter.videoId}/>)}
