@@ -1,11 +1,11 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-06-04T01:11:08.062Z
+lastUpdated: 2021-08-16T00:22:36.883Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
-  - Amazon
+  - reading
 isPublished: true
 ---
 
@@ -32,6 +32,8 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 [Clean Code](https://www.amazon.com/dp/0132350882/?coliid=I85H8Z061SHNX&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by [@UncleBobMartin](https://twitter.com/unclebobmartin?s=20)
 
 [Nudge](https://www.amazon.com/dp/B00A5DCALY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@R_Thaler](https://twitter.com/R_Thaler?s=20) & [@CassSunstein](https://twitter.com/CassSunstein?s=20)
+
+[Working Backwards](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets-ebook/dp/B08BYCQBZN/ref=sr_1_1?dchild=1&keywords=amazon+working+backwards&qid=1629073253&sr=8-1) by [@cbryar](https://twitter.com/cbryar?s=20) & [@BillCarr89](https://twitter.com/BillCarr89?s=20)
 
 ##2020
 
