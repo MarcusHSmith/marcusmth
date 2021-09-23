@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2019-10-27T22:12:03.284Z
-lastUpdated: 2021-02-19T20:41:45.078Z
+lastUpdated: 2021-09-23T17:10:35.904Z
 title: Git Cheatsheet
 description: My favorite Git Commands
 tags:
@@ -17,7 +17,7 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 
 `$ git clean -f` removes untracked files
 
-To squash commits `$ git rebase -i HEAD~10` (or however many commits are specific to the branch). Change `pick` to `squash` or `s`. Merge Commits will update the SHA so avoid rebasing over more commits than neccessary
+To squash commits `$ git rebase -i HEAD~10` (or however many commits are specific to the branch). Change `pick` to `squash` or `s`. Merge Commits will update the SHA so avoid rebasing over more commits than necessary.
 
 `$ git branch -m new-name` renames the current branch
 
@@ -25,7 +25,7 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 
 `$ git for-each-ref --sort=-committerdate refs/heads/` sort branches by date
 
-`$ git branch | grep -v "master" | xargs git branch -D` delete all local branches except master
+`$ git branch | grep -v "main" | xargs git branch -D` delete all local branches except main
 
 `$ git branch -D [branchName]` delete branch
 
