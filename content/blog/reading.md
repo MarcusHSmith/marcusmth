@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-08-21T19:05:33.061Z
+lastUpdated: 2021-09-29T20:59:49.301Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -13,7 +13,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ##2021
 
-🏃‍♂️ [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=asc_df_1934356344/?tag=hyprod-20&linkCode=df0&hvadid=312025907421&hvpos=&hvnetw=g&hvrand=2619027834083661622&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061089&hvtargid=pla-331493525691&psc=1) by [@chadfowler](https://twitter.com/chadfowler?s=20)
+[The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=asc_df_1934356344/?tag=hyprod-20&linkCode=df0&hvadid=312025907421&hvpos=&hvnetw=g&hvrand=2619027834083661622&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061089&hvtargid=pla-331493525691&psc=1) by [@chadfowler](https://twitter.com/chadfowler?s=20)
 
 [Working Backwards](https://www.amazon.com/s?k=working+backwards&i=stripbooks&ref=nb_sb_noss_2) by [@cbryar](https://twitter.com/cbryar?s=20) & [@BillCarr89](https://twitter.com/BillCarr89?s=20)
 
