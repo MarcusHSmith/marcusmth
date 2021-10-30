@@ -15,3 +15,5 @@ isPublished: false
 install [Homebrew](https://brew.sh)
 
 install [NVM and Node](https://tecadmin.net/install-nvm-macos-with-homebrew/)
+
+connect Github [ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
