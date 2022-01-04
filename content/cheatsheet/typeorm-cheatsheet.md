@@ -11,7 +11,7 @@ tags:
 isPublished: true
 ---
 
-### \[TypeORM](https://typeorm.io/#/)
+### [TypeORM](https://typeorm.io/#/)
 
 ## Relationships
 
