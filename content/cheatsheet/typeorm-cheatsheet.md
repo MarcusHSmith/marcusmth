@@ -23,9 +23,9 @@ If \`homes\` also has a relationship that should be returned\
 
 ## Tips
 
-How to use joins with `.find(` [link](https://github.com/typeorm/typeorm/issues/5215#issuecomment-566253819)
+How to use joins with `.find(...)` [link](https://github.com/typeorm/typeorm/issues/5215#issuecomment-566253819)
 
-To add a limit to a `find(` request, add the keyword `take:`
+To add a limit to a `find(` request, add the keyword `take:`)
 
 When creating a nullable entity, the variable needs to be nullable too
 ```
