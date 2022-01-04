@@ -1,12 +1,12 @@
 ---
 path: cheatsheet
-date: "2019-12-10T22:12:03.285Z"
-lastUpdated: 2020-07-27T18:25:03.285Z
-title: VSCode Cheatsheet
+date: 2019-12-10T22:12:03.285Z
+lastUpdated: 2022-01-04T17:15:15.823Z
+title: Visual Studio Code Cheatsheet
 description: My favorite VSCode Commands
-isPublished: true
 tags:
   - vscode
+isPublished: true
 ---
 
 If I need to look up multiple times, I should just record it in my own cheatsheet.
@@ -18,3 +18,5 @@ If I need to look up multiple times, I should just record it in my own cheatshee
 `CTR + -` go to previous cursor position
 
 `CTR + SHIFT + -` go to next cursor position
+
+`CMD + K, CMD + 0` collapse all sections in file
