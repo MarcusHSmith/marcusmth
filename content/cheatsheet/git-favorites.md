@@ -1,14 +1,13 @@
 ---
 path: cheatsheet
 date: 2019-10-27T22:12:03.284Z
-lastUpdated: 2021-09-23T17:10:35.904Z
+lastUpdated: 2022-01-06T18:36:13.345Z
 title: Git Cheatsheet
 description: My favorite Git Commands
 tags:
   - github
 isPublished: true
 ---
-
 If I need to look up multiple times, I should just record it in my own cheatsheet.
 
 ### Commands
@@ -30,6 +29,8 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 `$ git branch -D [branchName]` delete branch
 
 `$ git checkout [branchName]` return to latest commit on branch
+
+`$ git blame --ignore-rev commit` commit without updating blame. This is useful for formatting commits
 
 ### Posts
 
