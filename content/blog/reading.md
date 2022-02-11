@@ -1,23 +1,43 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2021-09-29T20:59:49.301Z
+lastUpdated: 2022-02-11T19:25:03.029Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
   - reading
 isPublished: true
 ---
+This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list.](https://www.fabisevi.ch/reading-list/)
 
-This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list](https://www.fabisevi.ch/reading-list/). 🏃‍♂️ for the book I am currently reading.
 
-##2021
+### Guide
+
+🏃‍♂️ for the book I am currently reading
+
+🥱 for books I didn't finish
+
+🔊 for audiobooks
+
+## 2022
+
+🔊🏃‍♂️ [The Craft](https://www.amazon.com/gp/product/B08DT6J4BQ/ref=ppx_yo_dt_b_d_asin_title_o00aud_?ie=UTF8&psc=1) by John Dickie
+
+🏃‍♂️ [Ghost in the Wires](https://www.amazon.com/gp/product/B0047Y0F0K/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) by [@kevinmitnick](https://twitter.com/kevinmitnick)
+
+🔊 [Marine Sniper](https://www.amazon.com/gp/product/B000XSAXSS/ref=ppx_yo_dt_b_d_asin_title_o04aud_?ie=UTF8&psc=1) by Charles Henderson
+
+🔊 [Pimp](https://www.amazon.com/Pimp-Iceberg-Slim-audiobook/dp/B00502PE5E/ref=sr_1_2?crid=3AH0ZEQONQ9BI&keywords=pimp&qid=1644607458&sprefix=pimp%2Caps%2C113&sr=8-2) by Iceberg Slim
+
+## 2021
+
+🥱 [The Making of a Manager](https://www.amazon.com/gp/product/B079WNPRL2/ref=ppx_yo_dt_b_d_asin_title_o07?ie=UTF8&psc=1) by [@joulee](https://twitter.com/joulee)
 
 [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=asc_df_1934356344/?tag=hyprod-20&linkCode=df0&hvadid=312025907421&hvpos=&hvnetw=g&hvrand=2619027834083661622&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061089&hvtargid=pla-331493525691&psc=1) by [@chadfowler](https://twitter.com/chadfowler?s=20)
 
 [Working Backwards](https://www.amazon.com/s?k=working+backwards&i=stripbooks&ref=nb_sb_noss_2) by [@cbryar](https://twitter.com/cbryar?s=20) & [@BillCarr89](https://twitter.com/BillCarr89?s=20)
 
-🏃‍♂️ [The Fountainhead](https://www.amazon.com/dp/0452286751/?coliid=I3SO485Z9UG5IG&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by Ayn Rand
+🥱 [The Fountainhead](https://www.amazon.com/dp/0452286751/?coliid=I3SO485Z9UG5IG&colid=39VIPIWI8S6H9&psc=1&ref_=lv_ov_lig_dp_it) by Ayn Rand
 
 [Kitchen Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_1?dchild=1&keywords=kitchen+confidential&qid=1621347487&sr=8-1) by Anthony Bourdain
 
@@ -39,7 +59,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 [Working Backwards](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets-ebook/dp/B08BYCQBZN/ref=sr_1_1?dchild=1&keywords=amazon+working+backwards&qid=1629073253&sr=8-1) by [@cbryar](https://twitter.com/cbryar?s=20) & [@BillCarr89](https://twitter.com/BillCarr89?s=20)
 
-##2020
+## 2020
 
 [Lives of the Stoics](https://www.amazon.com/Lives-Stoics-Living-Marcus-Aurelius/dp/052554187X) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
@@ -91,7 +111,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Operator: David Geffen Builds, Buys, and Sells the New Hollywood](https://amzn.to/39QoynF) by Thomas R. King
 
-##2019
+## 2019
 
 [It Doesn't Have to Be Crazy at Work](https://amzn.to/2uH90ni) by [@JasonFried](https://twitter.com/jasonfried?s=20)
 
@@ -103,7 +123,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/3bKtw76) by [@SleepDiplomat](https://twitter.com/sleepdiplomat?s=20)
 
-##2018
+## 2018
 
 [Hooked: How to Build Habit-Forming Products](https://amzn.to/2SO3ZkB) by [@Nireyal](https://twitter.com/nireyal?s=20)
 
@@ -117,21 +137,21 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Mate: Become the Man Women Want](https://amzn.to/39Ed7z6) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
-[Letters from a Self-Made Merchant to his Son]() by []()
+[Letters from a Self-Made Merchant to his Son](<>) by [](<>)
 
 [Ishmael](https://amzn.to/3eQqcIo) by Daniel Quinn
 
-##2017
+## 2017
 
 [Ego Is the Enemy](https://amzn.to/2Q72LQU) by [@RyanHoliday](https://twitter.com/RyanHoliday?s=20)
 
 [Thinking, Fast and Slow](https://amzn.to/3gV3h03) by Daniel Kahneman
 
-##2016
+## 2016
 
 [The Power Of Habit](https://amzn.to/3cwHKrn) by [@cduhigg](https://twitter.com/cduhigg?s=20)
 
-##2015
+## 2015
 
 [Paper Towns](https://amzn.to/3eOyYX7) by [@JohnGreen](https://twitter.com/johngreen?s=20)
 
@@ -139,7 +159,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Vagabonding](https://amzn.to/3eQ2PhX) by [@RolfPotts](https://twitter.com/rolfpotts?s=20)
 
-##2014
+## 2014
 
 [Life of Pi](https://amzn.to/309oZro) by Yann Martel
 
@@ -159,7 +179,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Losing My Virginity](https://amzn.to/36Xty9J) by [@RichardBranson](https://twitter.com/richardbranson?s=20)
 
-##2013
+## 2013
 
 [The 4-Hour Chef](https://amzn.to/3748Xka) by [@tferriss](https://twitter.com/tferriss?s=20)
 
@@ -169,6 +189,6 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](https://amzn.to/3ePsqbb) by Marc Levinson
 
-##1999
+## 1999
 
 Learned to read
