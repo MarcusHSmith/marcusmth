@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-08-22T22:43:45.078Z
-lastUpdated: 2021-02-04T17:56:50.079Z
+lastUpdated: 2022-07-22T14:25:31.961Z
 title: How to Code Review
 description: Code reviews present a challenge for Software Engineers this is how
   to do it in production companies like Snapchat and Goldman Sachs
@@ -24,6 +24,7 @@ I've written a guide for [Code Review Interviews](https://marcusmth.com/how-to-a
 - [ ] Constant variables should be capitalized
 - [ ] Ensure new code is called
 - [ ] String manipulation is brittle, regex simplifies it
+- [ ] No commented out code -> remove it
 
 ## iOS Specific Concepts
 
