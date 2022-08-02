@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2022-02-11T19:25:03.029Z
+lastUpdated: 2022-08-02T13:38:30.010Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -20,10 +20,15 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 🔊 for audiobooks
 
 ## 2022
+🔊🏃‍♂️ [Titan](https://www.amazon.com/dp/B000XUDGHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ron Chernow
 
-🔊🏃‍♂️ [The Craft](https://www.amazon.com/gp/product/B08DT6J4BQ/ref=ppx_yo_dt_b_d_asin_title_o00aud_?ie=UTF8&psc=1) by John Dickie
+🔊 [Set for Life](https://www.amazon.com/dp/B06Y15M786/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by [@STrenchBP](https://twitter.com/STrenchBP?s=20&t=wZTrmKx24g0VymEaNh2mcA)
 
-🏃‍♂️ [Ghost in the Wires](https://www.amazon.com/gp/product/B0047Y0F0K/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) by [@kevinmitnick](https://twitter.com/kevinmitnick)
+🥱 🔊 [Musashi](https://www.amazon.com/Musashi-Epic-Novel-Samurai-Era-ebook/dp/B00CD428BU/ref=sr_1_1?crid=1C4WGWFQFIHLU&keywords=musashi&qid=1659447501&s=digital-text&sprefix=musashi%2Cdigital-text%2C92&sr=1-1) by Eiji Yoshikawa
+
+🔊 [The Craft](https://www.amazon.com/gp/product/B08DT6J4BQ/ref=ppx_yo_dt_b_d_asin_title_o00aud_?ie=UTF8&psc=1) by John Dickie
+
+[Ghost in the Wires](https://www.amazon.com/gp/product/B0047Y0F0K/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) by [@kevinmitnick](https://twitter.com/kevinmitnick)
 
 🔊 [Marine Sniper](https://www.amazon.com/gp/product/B000XSAXSS/ref=ppx_yo_dt_b_d_asin_title_o04aud_?ie=UTF8&psc=1) by Charles Henderson
 
