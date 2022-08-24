@@ -1,7 +1,7 @@
 ---
 path: cheatsheet
 date: 2019-10-27T22:12:03.284Z
-lastUpdated: 2022-01-06T18:36:13.345Z
+lastUpdated: 2022-08-24T19:12:54.124Z
 title: Git Cheatsheet
 description: My favorite Git Commands
 tags:
@@ -31,6 +31,8 @@ To squash commits `$ git rebase -i HEAD~10` (or however many commits are specifi
 `$ git checkout [branchName]` return to latest commit on branch
 
 `$ git blame --ignore-rev commit` commit without updating blame. This is useful for formatting commits
+
+`$ git push origin localBranch:remoteBranch` push a local branch to a remote branch. Often times need to add `--force`
 
 ### Posts
 
