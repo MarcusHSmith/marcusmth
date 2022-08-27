@@ -14,7 +14,7 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
           .filter(({ node }) => node.frontmatter.isPublished)
           .map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
-            const featuredimage = node.frontmatter.featuredimage
+            const featuredImage = node.frontmatter.featuredImage
             return (
               <Segment key={title}>
               <article key={node.fields.slug}>
@@ -40,11 +40,11 @@ const ListOfPosts = (props: { data: any, posts: any, location: any }) => {
                   </header>
                   
                                       {
-                  featuredimage && (
+                  featuredImage && (
                     <div className="shrink-0 h-20 w-20">
                       <Img
-                        fluid={featuredimage.src.childImageSharp.fluid}
-                        alt={featuredimage.alt}
+                        fluid={featuredImage.src.childImageSharp.fluid}
+                        alt={featuredImage.alt}
                       />
                     </div>
                   )

@@ -63,7 +63,7 @@ export const pageQuery = graphql`
             description
             path
             isPublished
-            featuredimage {
+            featuredImage {
               src {
                 childImageSharp {
                   fluid(maxWidth: 1024) {

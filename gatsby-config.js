@@ -149,7 +149,6 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/profile-pic-marcus.jpg`,
-        
       },
     },
     `gatsby-plugin-offline`,
@@ -170,6 +169,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    'gatsby-plugin-postcss',
+    "gatsby-plugin-postcss",
   ],
 }

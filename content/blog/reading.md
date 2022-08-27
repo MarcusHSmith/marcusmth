@@ -8,8 +8,8 @@ tags:
   - reading
 isPublished: true
 ---
-This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list.](https://www.fabisevi.ch/reading-list/)
 
+This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list.](https://www.fabisevi.ch/reading-list/)
 
 ### Guide
 
@@ -20,6 +20,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 🔊 for audiobooks
 
 ## 2022
+
 🔊 [Setting the Table](https://www.amazon.com/Setting-Table-Danny-Meyer-audiobook/dp/B000JCE38O/ref=sr_1_1?keywords=setting+the+table&qid=1661260802&sr=8-1) by [@dhmeyer](https://twitter.com/dhmeyer?s=20&t=0OVCLtVzQXgE5T3xQZO1eg)
 
 🏃‍♂️ [The Tiger](https://www.amazon.com/dp/B0040MGVXE/?coliid=I2XV4D0UIWHAXE&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by [@JohnVaillant](https://twitter.com/JohnVaillant?s=20&t=H7OX4olJtgcfuyoS6ZdFXg)
@@ -146,7 +147,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Mate: Become the Man Women Want](https://amzn.to/39Ed7z6) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
-[Letters from a Self-Made Merchant to his Son](<>) by [](<>)
+[Letters from a Self-Made Merchant to his Son]() by []()
 
 [Ishmael](https://amzn.to/3eQqcIo) by Daniel Quinn
 

@@ -28,6 +28,7 @@ How to use joins with `.find(...)` [link](https://github.com/typeorm/typeorm/iss
 To add a limit to a `find(` request, add the keyword `take:`)
 
 When creating a nullable entity, the variable needs to be nullable too
+
 ```
   @Column({ type: String, nullable: true })
   token: string | null;

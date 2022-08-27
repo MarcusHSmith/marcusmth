@@ -8,10 +8,13 @@ tags:
   - Mac
 isPublished: false
 ---
+
 ## All Purpose
+
 1Password
 
 ## Development
+
 install [Homebrew](https://brew.sh)
 
 install [NVM and Node](https://tecadmin.net/install-nvm-macos-with-homebrew/)
