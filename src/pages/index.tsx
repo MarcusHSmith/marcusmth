@@ -26,6 +26,20 @@ class BlogIndex extends React.Component {
 
 export default BlogIndex
 
+/**
+ * The simplest set of fields for fluid images
+ * @type {Fragment}
+ */
+ export const GatsbyImageSharpFluid = graphql`
+ fragment GatsbyImageSharpFluid on ImageSharpFluid {
+   base64
+   aspectRatio
+   src
+   srcSet
+   sizes
+ }
+`
+
 export const pageQuery = graphql`
   query {
     site {
@@ -49,6 +63,16 @@ export const pageQuery = graphql`
             description
             path
             isPublished
+            featuredimage {
+              src {
+                childImageSharp {
+                  fluid(maxWidth: 1024) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              alt
+            }
           }
         }
       }

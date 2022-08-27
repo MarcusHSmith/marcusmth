@@ -7,6 +7,9 @@ description: Where you should reserve a desk to work while in Berlin, Germany
 tags:
   - wework
 isPublished: true
+featuredimage:
+  src: "./WeWork-logo.png"
+  alt: "WeWork Logo"
 ---
 ## Intro
 

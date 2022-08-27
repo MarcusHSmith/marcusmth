@@ -13,8 +13,6 @@ import kebabCase from "lodash/kebabCase"
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const siteTitle = this.props.data.site.siteMetadata.title
-
     return (
       <Layout location={this.props.location} title="Posts">
         <SEO
