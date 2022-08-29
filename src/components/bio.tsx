@@ -74,6 +74,8 @@ function InternalLinks(): ReactElement{
 function ExternalLinks({social}: {social: any}): ReactElement{
   return (
     <div>
+        <a href={`https://www.youtube.com/channel/UCzLPnJlM_5IEe2djVMB2jLA`}>Youtube</a>
+        {` `}
         <a href={`https://www.instagram.com/${social.instagram}`}>Instagram</a>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
