@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2022-08-23T13:22:09.268Z
+lastUpdated: 2022-08-29T02:20:33.795Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -20,6 +20,8 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 🔊 for audiobooks
 
 ## 2022
+
+🏃‍♂️ 🔊 [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by [@skamille](https://twitter.com/skamille)
 
 🔊 [Setting the Table](https://www.amazon.com/Setting-Table-Danny-Meyer-audiobook/dp/B000JCE38O/ref=sr_1_1?keywords=setting+the+table&qid=1661260802&sr=8-1) by [@dhmeyer](https://twitter.com/dhmeyer?s=20&t=0OVCLtVzQXgE5T3xQZO1eg)
 
