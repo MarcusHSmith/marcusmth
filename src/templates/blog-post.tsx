@@ -14,7 +14,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     return (
-      <Layout location={this.props.location} title="Posts">
+      <Layout location={this.props.location} isFullHeader={false}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}

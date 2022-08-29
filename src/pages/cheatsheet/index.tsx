@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import ListOfPosts from "../../components/listOfPosts"
 import SEO from "../../components/seo"
-import Bio from "../../components/bio"
 import Layout from "../../components/layout"
 
 class CheatsheetIndex extends React.Component {
@@ -11,10 +10,9 @@ class CheatsheetIndex extends React.Component {
       return (
           <Layout 
             location={location} 
-            title={"Marcusmth"}
+            isFullHeader={true}
           >
             <SEO title="Software Engineering Cheatsheets" />
-            <Bio />
             <ListOfPosts 
               data={data}
               posts={data.allMarkdownRemark.edges}

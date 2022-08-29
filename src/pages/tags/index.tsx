@@ -19,9 +19,8 @@ const TagsPage = ({
     },
   },
 }) => (
-<Layout title={title}>
+<Layout isFullHeader={true}>
 <SEO title="Marcus Smith Tags" />
-        <Bio />
         <Segment>
             <div 
                 style={{

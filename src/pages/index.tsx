@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 import ListOfPosts from "../components/listOfPosts"
-import Bio from "../components/bio"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 
@@ -11,10 +10,9 @@ class BlogIndex extends React.Component {
     return (
       <Layout 
       location={location} 
-      title={"Marcusmth"}
+      isFullHeader={true}
       >
         <SEO title="Marcus Smith Software Engineering Blog" />
-        <Bio />
         <ListOfPosts 
           data={data}
           posts={data.allMarkdownRemark.edges}

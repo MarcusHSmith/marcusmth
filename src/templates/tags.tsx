@@ -18,9 +18,8 @@ const Tags = ({ pageContext, data }) => {
 
   console.log(edges)
   return (
-<Layout location={data.location} title={`Tags: ${tag}`}>
-<SEO title={`Marcus Smith ${tag}`} />
-        <Bio />
+    <Layout location={data.location} isFullHeader={false}>
+      <SEO title={`Marcus Smith ${tag}`} />
         <ListOfPosts data={data} posts={edges} location={data.location}/>
        <footer>
             <MailChimpForm />

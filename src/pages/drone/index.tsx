@@ -14,10 +14,9 @@ class DroneIndex extends React.Component {
       return (
         <Layout 
         location={location} 
-        title={"Marcusmth"}
-    >
+        isFullHeader={true}
+>
         <SEO title="Marcus Smith Drone Footage" />
-        <Bio />
         {data.allMarkdownRemark.edges
           .map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug

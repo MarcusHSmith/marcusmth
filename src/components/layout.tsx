@@ -1,26 +1,19 @@
-import React from "react"
-
-import { PageHeader } from "./page-header/page-header"
+import React, { ReactElement, ReactNode } from "react"
 
 import { rhythm } from "../utils/typography"
+import PageHeader from "./PageHeader/PageHeader"
 
-class Layout extends React.Component {
-  render() {
-    const { children } = this.props
-    return (
+export default function Layout({children, isFullHeader = true}: {children: ReactNode, isFullHeader?: boolean}): ReactElement {
+  return (
       <div
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <PageHeader {...this.props} />
+        <PageHeader isFull={isFullHeader}/>
         <main>{children}</main>
       </div>
-    )
-  }
+  )
 }
-
-export default Layout
