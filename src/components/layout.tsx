@@ -11,6 +11,7 @@ export default function Layout({children, isFullHeader = true}: {children: React
           marginRight: `auto`,
           maxWidth: rhythm(24),
         }}
+        className="px-4"
       >
         <PageHeader isFull={isFullHeader}/>
         <main>{children}</main>

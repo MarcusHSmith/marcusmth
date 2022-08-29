@@ -26,7 +26,7 @@ Other creators use [GoPro](https://gopro.com/) cameras with its built in stabili
 ## Microphone
 
 For my videos I use the built in microphones. I've tried external mics but they catch noise from the clothing or breathing.
-Some creators use [Binaural Audio](https://www.youtube.com/watch?v=Yd5i7TlpzCk) which gives a directional audio. The is amazing when done correctly and miserable without the correct equipment. Because it's direction based the camera and microphones have to be static in relationship to each other. The DJI Pocket has an automatic swivel movement so it isn't possible to use Binaural Audio.
+Some creators use [Binaural Audio](https://www.youtube.com/watch?v=Yd5i7TlpzCk) which gives a directional audio. This is amazing when done correctly and miserable without the correct equipment. Because it's direction based the camera and microphones have to be static in relationship to each other. The DJI Pocket has an automatic swivel movement so it isn't possible to use Binaural Audio.
 
 # Preproduction
 
