@@ -3,7 +3,7 @@ path: blog
 date: 2022-08-29T01:39:25.326Z
 lastUpdated: 2022-08-29T02:17:46.212Z
 title: How to film walking videos for Youtube
-description: A guide to the camera and planning of silent walking videos
+description: A guide to the equipment and planning of silent walking videos
 tags:
   - Youtube
 isPublished: true
