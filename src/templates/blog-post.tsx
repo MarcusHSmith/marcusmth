@@ -18,6 +18,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          featuredImage={post.frontmatter.featuredImage}
         />
         <article>
           <header>
@@ -86,6 +87,16 @@ export const pageQuery = graphql`
         tags
         description
         videoId
+        featuredImage {
+          src {
+            childImageSharp {
+              fluid(maxWidth: 1024) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          alt
+        }
       }
     }
   }
