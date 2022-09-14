@@ -20,7 +20,7 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ## 2022
 
-🏃‍♂️ 🔊 \[Who: The A Method for Hiring](https://www.amazon.com/Who-Geoff-Smart-Randy-Street-audiobook/dp/B001H97LVO/ref=sr_1_1?crid=2NWWZ3AYQ06FG&keywords=who+hiring&qid=1663192671&sprefix=who+hiring%2Caps%2C68&sr=8-1) by Geoff Smart
+🏃‍♂️ 🔊 [Who: The A Method for Hiring](https://www.amazon.com/Who-Geoff-Smart-Randy-Street-audiobook/dp/B001H97LVO/ref=sr_1_1?crid=2NWWZ3AYQ06FG&keywords=who+hiring&qid=1663192671&sprefix=who+hiring%2Caps%2C68&sr=8-1) by Geoff Smart
 
 🔊 [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by [@skamille](https://twitter.com/skamille)
 
