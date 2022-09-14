@@ -1,14 +1,13 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2022-08-29T02:20:33.795Z
+lastUpdated: 2022-09-14T21:58:53.173Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
   - reading
 isPublished: true
 ---
-
 This page is a history of books I've read and maybe some I'd recommend. Too often I consume books and forget both that I read them and what I learned. This page is inspired by Joe Fabisevich's [reading list.](https://www.fabisevi.ch/reading-list/)
 
 ### Guide
@@ -21,7 +20,9 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ## 2022
 
-🏃‍♂️ 🔊 [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by [@skamille](https://twitter.com/skamille)
+🏃‍♂️ 🔊 \[Who: The A Method for Hiring](https://www.amazon.com/Who-Geoff-Smart-Randy-Street-audiobook/dp/B001H97LVO/ref=sr_1_1?crid=2NWWZ3AYQ06FG&keywords=who+hiring&qid=1663192671&sprefix=who+hiring%2Caps%2C68&sr=8-1) by Geoff Smart
+
+🔊 [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by [@skamille](https://twitter.com/skamille)
 
 🔊 [Setting the Table](https://www.amazon.com/Setting-Table-Danny-Meyer-audiobook/dp/B000JCE38O/ref=sr_1_1?keywords=setting+the+table&qid=1661260802&sr=8-1) by [@dhmeyer](https://twitter.com/dhmeyer?s=20&t=0OVCLtVzQXgE5T3xQZO1eg)
 
@@ -149,7 +150,7 @@ Annelies Hartmann Hampel Memoirs by Annelies Hartmann Hampel
 
 [Mate: Become the Man Women Want](https://amzn.to/39Ed7z6) by [@TuckerMax](https://twitter.com/TuckerMax?s=20)
 
-[Letters from a Self-Made Merchant to his Son]() by []()
+[Letters from a Self-Made Merchant to his Son](<>) by [](<>)
 
 [Ishmael](https://amzn.to/3eQqcIo) by Daniel Quinn
 
