@@ -12,7 +12,7 @@ class BlogIndex extends React.Component {
       location={location} 
       isFullHeader={true}
       >
-        <SEO title="Marcus Smith Software Engineering Blog" />
+        <SEO title="Marcus Smith Software Engineering Blog"/>
         <ListOfPosts 
           data={data}
           posts={data.allMarkdownRemark.edges}

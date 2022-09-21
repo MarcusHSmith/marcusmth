@@ -16,10 +16,12 @@ const Tags = ({ pageContext, data }) => {
     totalCount === 1 ? "" : "s"
   } tagged with "${tag}"`
 
-  console.log(edges)
   return (
     <Layout location={data.location} isFullHeader={false}>
-      <SEO title={`Marcus Smith ${tag}`} />
+      <SEO 
+        title={`Marcus Smith ${tag}`}
+        description={`Tag for ${tag}`}
+        />
         <ListOfPosts data={data} posts={edges} location={data.location}/>
        <footer>
             <MailChimpForm />

@@ -20,7 +20,10 @@ const TagsPage = ({
   },
 }) => (
 <Layout isFullHeader={true}>
-<SEO title="Marcus Smith Tags" />
+<SEO 
+  title="Marcus Smith Tags"
+  description="Tags for marcusmth"
+  />
         <Segment>
             <div 
                 style={{

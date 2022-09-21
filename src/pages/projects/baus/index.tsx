@@ -10,7 +10,7 @@ const BausApp = ({location}) => {
     location={location} 
     title={"Marcusmth"}
     >
-      <SEO title="Baus App" />
+      <SEO title="Baus App" description="iOS App data"/>
       <Bio/>
       <Header>Support for Baus App</Header>
       <p>Contact Marcus on Twitter</p>

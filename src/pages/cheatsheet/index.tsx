@@ -12,7 +12,10 @@ class CheatsheetIndex extends React.Component {
             location={location} 
             isFullHeader={true}
           >
-            <SEO title="Software Engineering Cheatsheets" />
+            <SEO 
+              title="Software Engineering Cheatsheets" 
+              description="tutorials and guides for software engineering" 
+            />
             <ListOfPosts 
               data={data}
               posts={data.allMarkdownRemark.edges}
