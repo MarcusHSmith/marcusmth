@@ -1,7 +1,7 @@
 ---
 path: blog
 date: 2020-02-01T22:08:05.284Z
-lastUpdated: 2022-09-14T21:58:53.173Z
+lastUpdated: 2022-11-07T19:29:46.324Z
 title: Marcus's Reading List
 description: Book list from a Software Engineer
 tags:
@@ -20,13 +20,15 @@ This page is a history of books I've read and maybe some I'd recommend. Too ofte
 
 ## 2022
 
-🏃‍♂️ 🔊 [Who: The A Method for Hiring](https://www.amazon.com/Who-Geoff-Smart-Randy-Street-audiobook/dp/B001H97LVO/ref=sr_1_1?crid=2NWWZ3AYQ06FG&keywords=who+hiring&qid=1663192671&sprefix=who+hiring%2Caps%2C68&sr=8-1) by Geoff Smart
+🏃‍♂️🔊 (How to Decide)[https://www.amazon.com/How-Decide-Simple-Making-Choices/dp/B088P4XLVB/ref=sr_1_1?crid=V1QXV88HOTN&keywords=how+to+decide&qid=1667849326&sprefix=how+to+decide%2Caps%2C168&sr=8-1] by (@AnnieDuke)[https://twitter.com/AnnieDuke]
+
+🔊 [Who: The A Method for Hiring](https://www.amazon.com/Who-Geoff-Smart-Randy-Street-audiobook/dp/B001H97LVO/ref=sr_1_1?crid=2NWWZ3AYQ06FG&keywords=who+hiring&qid=1663192671&sprefix=who+hiring%2Caps%2C68&sr=8-1) by Geoff Smart
 
 🔊 [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by [@skamille](https://twitter.com/skamille)
 
 🔊 [Setting the Table](https://www.amazon.com/Setting-Table-Danny-Meyer-audiobook/dp/B000JCE38O/ref=sr_1_1?keywords=setting+the+table&qid=1661260802&sr=8-1) by [@dhmeyer](https://twitter.com/dhmeyer?s=20&t=0OVCLtVzQXgE5T3xQZO1eg)
 
-🏃‍♂️ [The Tiger](https://www.amazon.com/dp/B0040MGVXE/?coliid=I2XV4D0UIWHAXE&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by [@JohnVaillant](https://twitter.com/JohnVaillant?s=20&t=H7OX4olJtgcfuyoS6ZdFXg)
+[The Tiger](https://www.amazon.com/dp/B0040MGVXE/?coliid=I2XV4D0UIWHAXE&colid=39VIPIWI8S6H9&psc=0&ref_=lv_ov_lig_dp_it) by [@JohnVaillant](https://twitter.com/JohnVaillant?s=20&t=H7OX4olJtgcfuyoS6ZdFXg)
 
 🔊[Titan](https://www.amazon.com/dp/B000XUDGHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ron Chernow
 
